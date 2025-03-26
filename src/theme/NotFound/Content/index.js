@@ -5,31 +5,36 @@ import Heading from '@theme/Heading';
 
 import { useLocation, useHistory } from '@docusaurus/router';
 
-let bTriggered = false
+let bTriggered = false;
+const defaultLocale = 'en';
 
 function NotFound() {
-  const location = useLocation();
-  const history = useHistory();
+  const location = useLocation()
+  const history = useHistory()
 
   console.log("location:", location)
 
   useEffect(() => {
     // Define the list of supported locales (for example)
-    const supportedLocales = ['en', 'ru'];
+    const supportedLocales = ['ru'];
 
     // Get the current locale from the URL (assuming the format is /:locale/some-path)
-    const pathParts = location.pathname.split('/');
+    const pathParts = location.pathname.split('/')
     console.log("pathname:", location.pathname)
     console.log("pathParts:", pathParts)
-    const locale = pathParts[2];
+    const locale = pathParts[2]
     console.log("locale:", locale)
 
     // If the locale is not supported, redirect to the default locale
-    if (!bTriggered && locale && !supportedLocales.includes(locale)) {
-      const defaultLocale = 'en';
-      const newPath = location.pathname.replace(locale + "/", "");
+    if (!bTriggered 
+      && 
+      locale 
+      && 
+      !supportedLocales.includes(locale)) 
+    {
+      const newPath = location.pathname.replace(locale + "/", "")
       console.log("newPath:", newPath)
-      history.replace(newPath);
+      history.replace(newPath)
       bTriggered = true
     }
   }, [location, history]);
