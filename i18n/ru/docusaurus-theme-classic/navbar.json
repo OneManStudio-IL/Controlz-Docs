@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Controlz",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Логотип Controlz",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Документация",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.News": {
+    "message": "Новости",
+    "description": "Navbar item with label News"
+  }
+}

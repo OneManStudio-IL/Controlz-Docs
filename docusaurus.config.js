@@ -10,18 +10,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Controlz docs',
+  title: 'Controlz home',
   tagline: 'The official repo of Controlz app docs',
   favicon: 'img/favicon.ico',
   url: 'https://OneManStudio-IL.github.io',
-  baseUrl: '/Controlz-Docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config:
   organizationName: 'OneManStudio-IL',
   projectName: 'Controlz-Docs',
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -29,7 +29,11 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ru'],
+    localeConfigs: {
+      en: { label: 'English' },
+      ru: { label: 'Русский', direction: 'ltr' },
+    },
   },
 
   presets: [
@@ -39,10 +43,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl: 'https://github.com/OneManStudio-IL/Controlz-Docs/blob/main/',
         },
         blog: {
           showReadingTime: true,
@@ -50,11 +51,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+          //editUrl: 'https://github.com/OneManStudio-IL/Controlz-Docs/blob/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -71,6 +68,10 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'Controlz',
         logo: {
@@ -84,18 +85,22 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'}
+          {to: '/blog', label: 'News', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/doc-home',
+                to: '/docs/Introducing/AboutApp',
               },
             ],
           },
@@ -112,8 +117,21 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'News',
                 to: '/blog',
+              }
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Privacy policy',
+                href: '/docs/Legal/PrivacyPolicy',
+              },
+              {
+                label: 'Terms',
+                href: '/docs/Legal/Terms',
               }
             ],
           },
