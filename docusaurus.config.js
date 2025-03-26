@@ -14,7 +14,8 @@ const config = {
   tagline: 'The official repo of Controlz app docs',
   favicon: 'img/favicon.ico',
   url: 'https://OneManStudio-IL.github.io',
-  baseUrl: '/',
+  //baseUrl: '/', // For debugging on local machine
+  baseUrl: '/Controlz-Docs/',
 
   // GitHub pages deployment config:
   organizationName: 'OneManStudio-IL',
