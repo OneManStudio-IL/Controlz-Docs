@@ -73,6 +73,9 @@ const config = {
         defaultMode: 'dark',
         respectPrefersColorScheme: true,
       },
+      metadata: [
+        { name: 'algolia-site-verification', content: '4FEFB4141FE3A030' }
+      ],
       navbar: {
         title: 'Controlz',
         logo: {
