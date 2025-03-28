@@ -147,7 +147,6 @@ const config = {
         logo: {
           alt: 'Controlz Logo',
           src: 'img/logo-colored.svg',
-          href: sBaseUrl,
           width: 160,
           height: 51,
         },
