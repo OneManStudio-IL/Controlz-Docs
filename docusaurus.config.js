@@ -8,18 +8,21 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+const sProjectName = "Controlz-Docs";
+//const sBaseUrl = "/";
+const sBaseUrl = sProjectName;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Controlz home',
   tagline: 'The official repo of Controlz app docs',
   favicon: 'img/favicon.ico',
   url: 'https://OneManStudio-IL.github.io',
-  //baseUrl: '/', // For debugging on local machine
-  baseUrl: '/Controlz-Docs/',
+  baseUrl: sBaseUrl,
 
   // GitHub pages deployment config:
   organizationName: 'OneManStudio-IL',
-  projectName: 'Controlz-Docs',
+  projectName: sProjectName,
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -141,6 +144,18 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Controlz, Inc.`,
+        logo: {
+          alt: 'Controlz Logo',
+          src: 'img/logo-colored.svg',
+          href: sBaseUrl,
+          width: 160,
+          height: 51,
+        },
+      },
+      algolia: {
+        appId: "AJXYEODYB6",
+        apiKey: "9f69dbfa22c83cfa0712140916928f12",
+        indexName: "onemanstudio_il_github_io_ajxyeodyb6_pages",
       },
       prism: {
         theme: prismThemes.github,
