@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const sProjectName = "Controlz-Docs";
-const sBaseUrl = "/";
-//const sBaseUrl = "/" + sProjectName + "/";
+//const sBaseUrl = "/";
+const sBaseUrl = "/" + sProjectName + "/";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
