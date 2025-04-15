@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontrolz_docs=self.webpackChunkcontrolz_docs||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Dev","permalink":"/blog/tags/dev","description":"Dev tag description","count":1}]}')}}]);
