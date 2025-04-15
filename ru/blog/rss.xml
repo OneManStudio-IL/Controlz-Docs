@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Controlz home Blog</title>
-        <link>https://OneManStudio-IL.github.io/ru/blog</link>
+        <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog</link>
         <description>Controlz home Blog</description>
         <lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>ru</language>
         <item>
             <title><![CDATA[Closed beta test of Controlz 2025]]></title>
-            <link>https://OneManStudio-IL.github.io/ru/blog/initial-blog-post</link>
-            <guid>https://OneManStudio-IL.github.io/ru/blog/initial-blog-post</guid>
+            <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/initial-blog-post</link>
+            <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/initial-blog-post</guid>
             <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
