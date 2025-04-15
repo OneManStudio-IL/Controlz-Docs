@@ -18,6 +18,5 @@ Whether you're a beginner learning the basics of programming or an advanced user
 - **Scratch-based visual programming**: The intuitive, drag-and-drop interface makes it easy to create sophisticated programs.
 - **User Interaction**: Sign in to create personalized profiles, provide feedback, and connect with the community.
 - **Gamepad Integration**: Control your models using physical gamepads for a more immersive experience.
-- **User Interaction**: Sign in to create personalized profiles, provide feedback, and connect with the community.
 
 **Controlz** is free to download and is available on both Android and Apple devices. It empowers you to bring your models, mechanisms, and robots to life with advanced control features, intuitive navigation, and flexible configuration options.
