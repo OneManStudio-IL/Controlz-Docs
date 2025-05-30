@@ -329,5 +329,14 @@
   "notfound.homepageLink": {
     "message": "главную страницу",
     "description": "Текст ссылки на главную страницу"
+  },
+  "Get Started": {
+    "message": "Быстрый старт"
+  },
+  "Supported devices": {
+    "message": "Поддерживаемые хабы, моторы и датчики"
+  },
+  "Elevate Your LEGO® Creations": {
+    "message": "Подними свои LEGO® творения на новый уровень"
   }
 }

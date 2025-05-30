@@ -1,4 +1,9 @@
 dev:
   label: Dev
   permalink: /dev
-  description: Dev tag description
+  description: Development news
+
+test:
+  label: Test
+  permalink: /test
+  description: Testing news

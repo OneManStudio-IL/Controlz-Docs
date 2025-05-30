@@ -17,6 +17,20 @@ h5 {
 }
 */
 
+@font-face {
+  font-family: 'JostBlackItalic';
+  src: url('/fonts/Jost/static/Jost-BlackItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'InterRegular';
+  src: url('/fonts/Inter/static/Inter_24pt-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #de1155;
@@ -51,4 +65,10 @@ html[data-theme="dark"] {
   .navbar {
     border-bottom: 1px solid var(--ifm-color-emphasis-200);
   }
+
+  font-family: 'InterRegular', sans-serif;
+}
+
+.navbar__title {
+  font-family: 'JostBlackItalic', sans-serif;
 }

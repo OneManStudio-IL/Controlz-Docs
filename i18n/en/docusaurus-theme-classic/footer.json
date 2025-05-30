@@ -38,5 +38,9 @@
   "copyright": {
     "message": "Copyright © 2025 Controlz, Inc.",
     "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Controlz Logo",
+    "description": "The alt text of footer logo"
   }
 }

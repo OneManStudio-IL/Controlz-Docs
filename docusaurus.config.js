@@ -80,7 +80,7 @@ const config = {
         { name: 'algolia-site-verification', content: '4FEFB4141FE3A030' }
       ],
       navbar: {
-        title: 'Controlz',
+        title: 'CONTROLZ',
         logo: {
           alt: 'Controlz Logo',
           src: 'img/logo.svg',
