@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcontrolz_docs=self.webpackChunkcontrolz_docs||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Closed beta test of Controlz 2025","permalink":"/Controlz-Docs/ru/blog/initial-blog-post","unlisted":false,"date":"2025-04-04T00:00:00.000Z"}]}')}}]);
