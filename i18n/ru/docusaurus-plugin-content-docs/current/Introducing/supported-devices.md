@@ -10,16 +10,16 @@ import { SupportedHubsTable, SupportedMotorsTable, SupportedSensorsTable } from 
 Краткий обзор хабов, моторов и датчиков, поддерживаемых  **Controlz**.
 
 <details>
-<summary>Hubs</summary>
+<summary>Хабы</summary>
 <SupportedHubsTable />
 </details>
 
 <details>
-<summary>Motors</summary>
+<summary>Моторы</summary>
 <SupportedMotorsTable />
 </details>
 
 <details>
-<summary>Sensors</summary>
+<summary>Датчики</summary>
 <SupportedSensorsTable />
 </details>
