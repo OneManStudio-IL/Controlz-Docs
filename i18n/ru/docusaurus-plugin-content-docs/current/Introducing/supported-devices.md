@@ -5,7 +5,7 @@ title: Поддерживаемые хабы, моторы и датчики
 
 import { SupportedHubsTable, SupportedMotorsTable, SupportedSensorsTable } from '@site/src/components/SupportedDevices';
 
-# ⚙️ Supported Devices
+# ⚙️ Поддерживаемые хабы, моторы и датчики
 
 Краткий обзор хабов, моторов и датчиков, поддерживаемых  **Controlz**.
 

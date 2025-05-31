@@ -24,11 +24,13 @@ function HomepageHeader() {
 
 function GetStarted() {
 
-  const { i18n } = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   const history = useHistory();
 
   // Prefix links with current locale if needed
-  const prefix = i18n.currentLocale === i18n.defaultLocale ? '' : `/${i18n.currentLocale}`;
+  const prefix = siteConfig.baseUrl + (siteConfig.currentLocale === siteConfig.defaultLocale)
+                ? '' 
+                : `/${siteConfig.currentLocale}`;
 
   const goToQuickStart = () => {
     history.push(`${prefix}/docs/Introducing/QuickStart`);
@@ -41,6 +43,13 @@ function GetStarted() {
   return (
     <div className="hero shadow--lw">
       <div className="container text--center padding-vert--xl">
+        <img 
+          src={siteConfig.baseUrl + "img/controlz_phone.png"}
+          alt="Controlz Hero" 
+          width="640"
+          className="margin-bottom--lg"
+          style={{ maxWidth: '100%', height: 'auto' }} 
+        />
         <h1 className="hero__title"><Translate>Elevate Your LEGO® Creations</Translate></h1>
         <div className="margin-top--md">
           <button 
