@@ -1,26 +1,23 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
+const isProd = process.env.NODE_ENV === 'production';
 const sProjectName = "Controlz-Docs";
-//const sBaseUrl = "/";
-const sBaseUrl = "/" + sProjectName + "/";
+
+// Automatically switch baseUrl depend on running environment
+const sBaseUrl = isProd ? `/${sProjectName}/` : '/';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Controlz home',
   tagline: 'The official repo of Controlz app docs',
   favicon: 'img/favicon.ico',
+
+  // Public domain
   url: 'https://OneManStudio-IL.github.io',
   baseUrl: sBaseUrl,
 
-  // GitHub pages deployment config:
   organizationName: 'OneManStudio-IL',
   projectName: sProjectName,
   deploymentBranch: 'gh-pages',
@@ -28,9 +25,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ru'],
@@ -43,11 +37,9 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
-          sidebarPath: './sidebars.js',
-          //editUrl: 'https://github.com/OneManStudio-IL/Controlz-Docs/blob/main/',
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
           showReadingTime: true,
@@ -55,112 +47,84 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          //editUrl: 'https://github.com/OneManStudio-IL/Controlz-Docs/blob/main/',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      colorMode: {
-        defaultMode: 'dark',
-        respectPrefersColorScheme: true,
+  themeConfig: {
+    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: true,
+    },
+    navbar: {
+      title: 'CONTROLZ',
+      logo: {
+        alt: 'Controlz Logo',
+        src: 'img/logo.svg',
       },
-      metadata: [
-        { name: 'algolia-site-verification', content: '4FEFB4141FE3A030' }
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Documentation',
+        },
+        { to: '/blog', label: 'News', position: 'left' },
+        { type: 'localeDropdown', position: 'right' },
       ],
-      navbar: {
-        title: 'CONTROLZ',
-        logo: {
-          alt: 'Controlz Logo',
-          src: 'img/logo.svg',
+    },
+    footer: {
+      style: 'light',
+      links: [
+        {
+          title: 'Docs',
+          items: [
+            { label: 'Documentation', to: '/docs/Introducing/AboutApp' },
+          ],
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
-          {to: '/blog', label: 'News', position: 'left'},
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'light',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Documentation',
-                to: '/docs/Introducing/AboutApp',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Telegram',
-                href: 'https://t.me/procontrolzchat',
-              }
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'News',
-                to: '/blog',
-              }
-            ],
-          },
-          {
-            title: 'Legal',
-            items: [
-              {
-                label: 'Privacy policy',
-                href: '/docs/Legal/PrivacyPolicy',
-              },
-              {
-                label: 'Terms',
-                href: '/docs/Legal/Terms',
-              }
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Controlz, Inc.`,
-        logo: {
-          alt: 'Controlz Logo',
-          src: 'img/logo-colored.svg',
-          width: 160,
-          height: 51,
+        {
+          title: 'Community',
+          items: [
+            { label: 'Telegram', href: 'https://t.me/procontrolzchat' },
+          ],
         },
+        {
+          title: 'More',
+          items: [
+            { label: 'News', to: '/blog' },
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
+            { label: 'Privacy policy', href: '/docs/Legal/PrivacyPolicy' },
+            { label: 'Terms', href: '/docs/Legal/Terms' },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Controlz, Inc.`,
+      logo: {
+        alt: 'Controlz Logo',
+        src: 'img/logo-colored.svg',
+        width: 160,
+        height: 51,
       },
-      algolia: {
-        appId: "AJXYEODYB6",
-        apiKey: "9f69dbfa22c83cfa0712140916928f12",
-        indexName: "onemanstudio_il_github_io_ajxyeodyb6_pages",
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
+    },
+    algolia: {
+      appId: "AJXYEODYB6",
+      apiKey: "9f69dbfa22c83cfa0712140916928f12",
+      indexName: "onemanstudio_il_github_io_ajxyeodyb6_pages",
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
 
 export default config;
