@@ -27,24 +27,20 @@ function GetStarted() {
   const { siteConfig } = useDocusaurusContext();
   const history = useHistory();
 
-  // Prefix links with current locale if needed
-  const prefix = siteConfig.baseUrl + (siteConfig.currentLocale === siteConfig.defaultLocale)
-                ? '' 
-                : `/${siteConfig.currentLocale}`;
+  const locale = (siteConfig.currentLocale === siteConfig.defaultLocale) ? '' : `${siteConfig.currentLocale}/`;
 
   const goToQuickStart = () => {
-    const path = `${prefix}/docs/Introducing/QuickStart`;
-    historyPush(path);
+    historyPush(`docs/Introducing/QuickStart`);
   };
 
   const goToSupportedDevices = () => {
-    const path = `${prefix}/docs/Introducing/SupportedDevices`;
-    historyPush(path);
+    historyPush(`docs/Introducing/SupportedDevices`);
   };
 
   const historyPush = (path) => {
-    console.log("siteConfig.baseUrl:", siteConfig.baseUrl, ", path:", path, )
-    history.push(path);
+    const fullPath = `${siteConfig.baseUrl}${locale}${path}`;
+    console.log(`History push: (baseUrl: '${siteConfig.baseUrl}'), (locale: '${locale}') (path: '${path}') (fullPath: '${fullPath}')`)
+    history.push(fullPath);
   };
 
   return (
