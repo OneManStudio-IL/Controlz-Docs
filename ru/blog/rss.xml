@@ -13,10 +13,11 @@
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5</guid>
             <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Описание:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание:" title="Прямая ссылка на Описание:">​</a></h3>
+            <description><![CDATA[Описание]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание" title="Прямая ссылка на Описание">​</a></h3>
 <p>Это обновление улучшает редактирование блоков, повышает производительность и обеспечивает корректную работу на новых версиях Android.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения:" title="Прямая ссылка на Изменения:">​</a></h3>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения" title="Прямая ссылка на Изменения">​</a></h3>
 <ul>
 <li><strong>Исправлена ошибка сканирования хаба на устройствах с Android 12+</strong> — теперь запрашивается разрешение на точное определение местоположения.</li>
 <li><strong>Добавлена возможность скрывать/показывать палитру блоков</strong>, нажатием на текущую выбранную коллекцию блоков.</li>
@@ -32,10 +33,11 @@
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4</guid>
             <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Описание:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание:" title="Прямая ссылка на Описание:">​</a></h3>
+            <description><![CDATA[Описание]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание" title="Прямая ссылка на Описание">​</a></h3>
 <p>Это обновление улучшает поддержку планшетов, добавляет полезные страницы для тестирования и устраняет ряд проблем с совместимостью и производительностью.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения:" title="Прямая ссылка на Изменения:">​</a></h3>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-4#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения" title="Прямая ссылка на Изменения">​</a></h3>
 <ul>
 <li><strong>Добавлен планшетный интерфейс</strong> для более эффективного использования больших экранов.</li>
 <li><strong>Исправлена ошибка с блоком “нажата кнопка хаба”</strong>, который отображался для хабов, не поддерживающих это действие. Также удалены <strong>блоки цветового датчика</strong> для неподдерживаемых хабов (например, BuWizz).</li>
@@ -55,10 +57,11 @@
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3</guid>
             <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Описание:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание:" title="Прямая ссылка на Описание:">​</a></h3>
+            <description><![CDATA[Описание]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание" title="Прямая ссылка на Описание">​</a></h3>
 <p>Это обновление добавляет новые параметры настройки джойстика, улучшения пользовательского интерфейса и важные исправления для повышения стабильности.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения:" title="Прямая ссылка на Изменения:">​</a></h3>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-2-3#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения" title="Прямая ссылка на Изменения">​</a></h3>
 <ul>
 <li><strong>Исправлена ошибка в селекторе коллекций палитры блоков</strong>: при возврате к ранее выбранной коллекции изменения не отображались.</li>
 <li><strong>Исправлен сбой при загрузке тяжёлых профилей</strong>, содержащих большое количество блоков.</li>
@@ -74,10 +77,11 @@
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1</guid>
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Описание:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание:" title="Прямая ссылка на Описание:">​</a></h3>
+            <description><![CDATA[Описание]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="описание">Описание<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Описание" title="Прямая ссылка на Описание">​</a></h3>
 <p>Это обновление включает в себя несколько важных исправлений, которые повышают производительность, снижают энергопотребление и улучшают поведение блоков в среде программирования.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения:<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения:" title="Прямая ссылка на Изменения:">​</a></h3>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="изменения">Изменения<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-1#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Изменения" title="Прямая ссылка на Изменения">​</a></h3>
 <ul>
 <li><strong>Исправлена ошибка, вызывавшая высокую загрузку ЦП, разряд аккумулятора и снижение производительности.</strong></li>
 <li><strong>Исправлена ошибка, из-за которой игровые блоки</strong> (например, «кнопка нажата», «нажата кнопка D-PAD») <strong>не могли быть присоединены к другим блокам.</strong></li>
