@@ -33,11 +33,18 @@ function GetStarted() {
                 : `/${siteConfig.currentLocale}`;
 
   const goToQuickStart = () => {
-    history.push(`${prefix}/docs/Introducing/QuickStart`);
+    const path = `${prefix}/docs/Introducing/QuickStart`;
+    historyPush(path);
   };
 
   const goToSupportedDevices = () => {
-    history.push(`${prefix}/docs/Introducing/SupportedDevices`);
+    const path = `${prefix}/docs/Introducing/SupportedDevices`;
+    historyPush(path);
+  };
+
+  const historyPush = (path) => {
+    console.log("siteConfig.baseUrl:", siteConfig.baseUrl, ", path:", path, )
+    history.push(path);
   };
 
   return (

@@ -203,7 +203,7 @@ const CreateTableGeneric = (data) => (
     </thead>
     <tbody>
       {data.map(({ name, partNumber, imgSrc, alt }) => (
-        <tr key={partNumber}>
+        <tr key={imgSrc}>
           <td>
             <div>{name}</div>
             <div style={secondaryTextStyle}>{partNumber}</div>
