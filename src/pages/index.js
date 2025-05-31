@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import { useHistory } from '@docusaurus/router';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Translate from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -23,25 +24,10 @@ function HomepageHeader() {
 }
 
 function GetStarted() {
-
   const { siteConfig } = useDocusaurusContext();
   const history = useHistory();
-
-  const locale = (siteConfig.currentLocale === siteConfig.defaultLocale) ? '' : `${siteConfig.currentLocale}/`;
-
-  const goToQuickStart = () => {
-    historyPush(`docs/Introducing/QuickStart`);
-  };
-
-  const goToSupportedDevices = () => {
-    historyPush(`docs/Introducing/SupportedDevices`);
-  };
-
-  const historyPush = (path) => {
-    const fullPath = `${siteConfig.baseUrl}${locale}${path}`;
-    console.log(`History push: (baseUrl: '${siteConfig.baseUrl}'), (locale: '${locale}') (path: '${path}') (fullPath: '${fullPath}')`)
-    history.push(fullPath);
-  };
+  const quickStartUrl = useBaseUrl(`docs/Introducing/QuickStart`);
+  const supportedDevicesUrl = useBaseUrl(`docs/Introducing/SupportedDevices`);
 
   return (
     <div className="hero shadow--lw">
@@ -57,7 +43,7 @@ function GetStarted() {
         <div className="margin-top--md">
           <button 
           className="button button--primary button--outline button--lg margin--sm"
-          onClick={goToQuickStart}
+          onClick={ () => { history.push(quickStartUrl) }}
           >
             <Translate>
             Get Started
@@ -65,13 +51,51 @@ function GetStarted() {
           </button>
           <button 
           className="button button--primary button--outline button--lg margin--sm"
-          onClick={goToSupportedDevices}
+          onClick={() => { history.push(supportedDevicesUrl) }}
           >
             <Translate>
             Supported devices
             </Translate>
           </button>
         </div>
+      </div>
+    </div>
+  );
+}
+
+function DownloadSection() {
+  return (
+    <div className="container text--center margin-vert--xl">
+      <h2 className="hero__subtitle">
+        <Translate>Download the Controlz</Translate>
+      </h2>
+      <p className="margin-bottom--sm">
+        <Translate>You can download the app from the official stores:</Translate>
+      </p>
+      <div className="flex justify-center items-center gap-4 flex-wrap">
+        <a
+          href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="margin--sm"
+        >
+          <img
+            src={useBaseUrl('/img/badge_appstore.svg')}
+            alt="Download on the App Store"
+            height="60"
+          />
+        </a>
+        <a
+          href="https://play.google.com/apps/testing/pro.controlz.il"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={useBaseUrl('/img/badge_google_play.svg')}
+            alt="Get it on Google Play"
+            height="60"
+          />
+        </a>
       </div>
     </div>
   );
@@ -85,6 +109,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <main>
       <GetStarted />
+      <DownloadSection />
       </main>
     </Layout>
   );
