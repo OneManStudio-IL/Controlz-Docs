@@ -86,7 +86,7 @@ function DownloadSection() {
           />
         </a>
         <a
-          href="https://play.google.com/apps/testing/pro.controlz.il"
+          href="https://play.google.com/store/apps/details?id=pro.controlz.il"
           target="_blank"
           rel="noopener noreferrer"
         >
