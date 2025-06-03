@@ -1,10 +1,11 @@
 {
   "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
+    "message": "Următorul",
+    "description": "Eticheta pentru versiunea curentă"
   },
   "sidebar.tutorialSidebar.category.Introducing": {
-    "message": "Introducing",
-    "description": "The label for category Introducing in sidebar tutorialSidebar"
+    "message": "Introducere",
+    "description": "Eticheta pentru categoria Introducere în bara laterală tutorialSidebar"
   }
 }
+

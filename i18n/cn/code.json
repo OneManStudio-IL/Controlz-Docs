@@ -1,376 +1,375 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "页面未找到"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "哎呀！页面未找到。"
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "您正在寻找的页面不存在。"
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "您尝试访问"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "返回"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "主页"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "此页面崩溃了。"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "滚动回顶部"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "归档"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "归档"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "博客列表页面导航"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "更新的条目"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "旧的条目"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "博客文章页面导航"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "更新的文章"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "旧的文章"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "查看所有标签"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "面包屑导航"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "在深色模式和浅色模式之间切换（当前为 {mode}）"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "深色模式"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "浅色模式"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 项|{count} 项"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "1 个文档标签|{count} 个文档标签"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "与 \"{tagName}\" 相关的 {nDocsTagged}"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "文档页面"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "上一页"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "下一页"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "版本: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "编辑此页面"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "直接链接到 {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "这是 {siteTitle} {versionLabel} 版本的未发布文档。"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "这是 {siteTitle} {versionLabel} 版本的文档，该版本不再积极维护。"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "有关最新文档，请查看 {latestVersionLink}（{versionLabel}）。"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "最新版本"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " 于 {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " 由 {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "最后更新{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "版本"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "标签："
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "关闭"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "小心"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "危险"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "信息"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "注意"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "提示"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "警告"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "博客最近的文章导航"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "已复制"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "复制代码到剪贴板"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "复制"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "切换换行"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "展开侧边栏分类 '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "收起侧边栏分类 '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "主导航"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "我们无法找到您要找的内容。"
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "请联系链接到该页面的网站所有者，并告知他们该链接已损坏。"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "在此页面上"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "语言"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 分钟阅读|{readingTime} 分钟阅读"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "文档侧边栏"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "收起侧边栏"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "收起侧边栏"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "首页"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "阅读全文"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "了解更多关于 {title} 的内容"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "关闭导航栏"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← 返回主菜单"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "展开侧边栏"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "展开侧边栏"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "切换导航栏"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "查看所有 {count} 个结果"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "找到 1 个文档|找到 {count} 个文档"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "搜索 \"{query}\" 的结果"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "搜索文档"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "在这里输入搜索内容"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "搜索"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "通过 Algolia 搜索"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "未找到结果"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "正在获取新结果..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "搜索"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "清除查询"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "取消"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "最近的搜索"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "没有最近的搜索"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "保存此搜索"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "从历史记录中移除此搜索"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "收藏的搜索"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "从收藏夹中移除此搜索"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "无法获取结果"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "您可能需要检查网络连接。"
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "选择"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "回车键"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "导航"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "上箭头"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "下箭头"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "关闭"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Escape 键"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "搜索来源"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "没有关于"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "尝试搜索"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "认为这个查询应该返回结果？"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "告诉我们。"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "搜索文档"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 篇文章|{count} 篇文章"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} 标记为 \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "作者",
+    "description": "作者页面的标题"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "查看所有作者"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "该作者还没有写任何文章。"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "未列出页面"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "此页面未列出。搜索引擎不会索引它，只有拥有直接链接的用户可以访问。"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "草稿页面"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "此页面是草稿。它只会在开发中显示，并且会从生产构建中排除。"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "再试一次"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "跳转到主要内容"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "标签"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "开始使用"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "支持的设备"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "提升您的 LEGO® 创作"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "下载 Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "您可以从官方商店下载应用："
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "系统模式"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "展开下拉菜单"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "收起下拉菜单"
   }
 }
