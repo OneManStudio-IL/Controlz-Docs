@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Pagina niet gevonden"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Oeps! Pagina niet gevonden."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "De pagina die je zoekt bestaat niet."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Je probeerde toegang te krijgen tot"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Terug"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "Homepage"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Deze pagina is gecrasht."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Terug naar boven"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Archief"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Archief"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Navigatie voor de bloglijstpagina"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Nieuwere berichten"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Oudere berichten"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Navigatie voor de blogpostpagina"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Nieuwere post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Oudere post"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Bekijk alle tags"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "Breadcrumbs"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Schakel tussen donker- en lichtmodus (huidige modus: {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "Donkere modus"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "Lichte modus"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
     "message": "1 item|{count} items"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "1 document|{count} documenten"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "Getagd met \"{nDocsTagged}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Documentpagina"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Vorige"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Volgende"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versie: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Bewerk deze pagina"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Directe link naar {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Dit is de ongereleasede documentatie voor {siteTitle} {versionLabel} versie."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "De documentatie voor {siteTitle} {versionLabel} versie wordt niet meer onderhouden."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Voor de laatste documentatie, kijk bij {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "Laatste versie"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": "op {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": "door {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Laatste update {atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versies"
   },
   "theme.tags.tagsListLabel": {
     "message": "Tags:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Sluiten"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "Let op"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "Gevaren"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "Informatie"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "Opmerking"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "Tip"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "Waarschuwing"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Navigatie voor de nieuwste blogberichten"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Gekopieerd"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Kopieer code naar klembord"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Kopieer"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Schakel woordomloop in"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Vouw de categorie '{label}' uit"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Vouw de categorie '{label}' in"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Hoofd"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "We konden niet vinden wat je zocht."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Laat de beheerder van de website waar je de link hebt gevonden weten dat de link is verbroken."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Deze pagina"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Taal"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 minuut|{readingTime} minuten"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Navigatiebalk voor de documenten"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Vouw de zijbalk in"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Vouw de zijbalk in"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Home"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Lees meer"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Lees meer over {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Sluit de navigatiebalk"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Terug naar het hoofdmenu"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Vouw de zijbalk uit"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Vouw de zijbalk uit"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Schakel de navigatiebalk in of uit"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Bekijk alle {count} resultaten"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "1 document|{count} documenten"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Zoekresultaten voor \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Zoek document"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Typ hier je zoekterm"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Zoeken"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Zoeken met Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Geen resultaten gevonden"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Nieuwe resultaten ophalen..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Zoeken"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Reset zoekopdracht"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Annuleren"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Recente zoekopdrachten"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Geen recente zoekopdrachten"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Deze zoekopdracht opslaan"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Verwijder uit recente zoekopdrachten"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Favorieten"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Verwijder uit favorieten"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Kon geen resultaten ophalen"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Controleer je netwerkverbinding."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "Selecteer om"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Enter-toets"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "Navigeer met"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Pijl omhoog"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Pijl omlaag"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "Sluiten met"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Escape-toets"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Zoeken met",
+    "description": "Geeft aan dat de zoekopdracht via Algolia wordt uitgevoerd"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Geen resultaten"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Probeer deze zoekopdracht"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Denk je dat er zoekresultaten zouden moeten zijn?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Laat het ons weten"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Zoek documenten"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 Bericht|{count} Berichten"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "Berichten getagd met \"{tagName}\" ({nPosts})"
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Auteurs",
+    "description": "Titel van de auteurspagina"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Bekijk alle auteurs"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Deze auteur heeft nog geen berichten gepost."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Niet-gelokaliseerde pagina"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Deze pagina is niet gelokaliseerd. Deze zal niet geïndexeerd worden door zoekmachines en is alleen toegankelijk voor gebruikers die de directe link hebben."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Conceptpagina"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Deze pagina is een concept. Het is alleen zichtbaar in de ontwikkelomgeving en zal niet worden opgenomen in de publieke versie."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Probeer het opnieuw"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Ga naar de hoofdinhoud"
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tags"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Beginnen"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Ondersteunde apparaten"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Verhoog je LEGO® creaties"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Download Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Je kunt de app downloaden via de officiële winkels:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "Systeem modus"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Vouw het dropdownmenu uit"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Vouw het dropdownmenu in"
   }
 }

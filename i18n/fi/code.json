@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Sivua ei löydy"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Hups! Sivua ei löydy."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Etsimääsi sivua ei ole olemassa."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Yritit päästä"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Palaa takaisin"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "etusivulle"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Tämä sivu kaatui."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Vieritä takaisin ylös"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Arkisto"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Arkisto"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Blogilistan sivun navigointi"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Uudemmat merkinnät"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Vanhemmat merkinnät"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Blogikirjoituksen sivun navigointi"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Uudempi kirjoitus"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Vanhempi kirjoitus"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Näytä kaikki tagit"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Leipäteksti"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Vaihda tumman ja vaalean tilan välillä (nykyinen tila: {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "tummatila"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "vaaleatila"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 kohde|{count} kohdetta"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "Yksi asiakirja merkitty|{count} asiakirjaa merkitty"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} \"{tagName}\"-tägillä"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Dokumenttien sivut"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Edellinen"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Seuraava"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versio: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Muokkaa tätä sivua"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Suora linkki kohtaan {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Tämä on julkaisematon dokumentaatio {siteTitle} {versionLabel}-versiolle."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Tämä on dokumentaatio {siteTitle} {versionLabel}-versiolle, jota ei enää aktiivisesti ylläpidetä."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Päivitetyn dokumentaation katsomiseksi katso {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "viimeisin versio"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " päivämäärällä {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " käyttäjältä {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Viimeksi päivitetty{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versiot"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "Tägitykset:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Sulje"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "varoitus"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "vaara"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "tieto"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "huomio"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "vinkki"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "varoitus"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Blogin uusimmat kirjoitukset"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Kopioitu"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Kopioi koodi leikepöydälle"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Kopioi"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Vaihda sanan kääntö"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Laajenna sivupalkin kategoria '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Kollapsaa sivupalkin kategoria '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Päävalikko"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Emme voineet löytää etsimääsi sisältöä."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Ota yhteyttä sivuston omistajaan, joka linkitti sinut alkuperäiseen URL-osoitteeseen, ja ilmoita heille, että heidän linkkinsä on rikki."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Tällä sivulla"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Kielet"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "Yksi minuutti lukuaika|{readingTime} minuutin lukuaika"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Dokumenttien sivupalkki"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Kollapsaa sivupalkki"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Kollapsaa sivupalkki"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Etusivu"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Lue lisää"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Lue lisää aiheesta {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Sulje navigointipalkki"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Takaisin päävalikkoon"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Laajenna sivupalkki"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Laajenna sivupalkki"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Vaihda navigointipalkki"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Näytä kaikki {count} tulosta"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "Yksi asiakirja löytyi|{count} asiakirjaa löytyi"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Hakutulokset hakusanalle \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Etsi dokumentaatiota"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Kirjoita haku tähän"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Haku"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Haku Algolian avulla"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Ei tuloksia"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Haetaan uusia tuloksia..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Haku"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Tyhjennä haku"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Peruuta"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Viimeaikaiset"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Ei viimeaikaisia hakuja"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Tallenna tämä haku"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Poista tämä haku historiasta"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Suosikit"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Poista tämä haku suosikeista"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Ei voida hakea tuloksia"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Varmista, että verkkoyhteytesi on kunnossa."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "valitse"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Enter-näppäin"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "navigoi"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Nuoli ylös"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Nuoli alas"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "sulje"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Esc-näppäin"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Etsi",
+    "description": "Selitys siitä, että haku tehdään Algolian avulla"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Ei tuloksia hakusanalla"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Kokeile etsiä"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Luuleeko, että tämän haun pitäisi tuottaa tuloksia?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Ilmoita meille."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Etsi dokumentaatiota"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "Yksi kirjoitus|{count} kirjoitusta"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} tägitetty \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Kirjoittajat",
+    "description": "Kirjoittajien sivun otsikko"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Näytä kaikki kirjoittajat"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Tällä kirjoittajalla ei ole vielä kirjoituksia."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Listaamattomalla sivu"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Tämä sivu ei ole listattu. Hakukoneet eivät indeksoi sitä, ja vain käyttäjät, joilla on suora linkki, voivat käyttää sitä."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Luonnossivu"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Tämä sivu on luonnos. Se on näkyvissä vain kehityksessä eikä sisälly tuotantokokoonpanoon."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Yritä uudelleen"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Siirry pääsisältöön"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "Tägitykset"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Aloita"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Tuetut laitteet"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Nosta LEGO®-luomuksesi uudelle tasolle"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Lataa Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Voit ladata sovelluksen virallisista kaupoista:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "järjestelmän tila"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Laajenna valikkoa"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Kollapsaa valikkoa"
   }
 }

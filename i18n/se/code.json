@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Sidan hittades inte"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Hoppsan! Sidan kunde inte hittas."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Sidan du letar efter finns inte."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Du försökte komma åt"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Gå tillbaka till"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "startsidan"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Den här sidan kraschar."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Rulla tillbaka till toppen"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Arkiv"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Arkiv"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Blogglistans sidnavigering"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Nyare inlägg"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Äldre inlägg"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Blogginläggssidnavigering"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Nyare inlägg"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Äldre inlägg"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Visa alla taggar"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Brödsmulor"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Byt mellan mörkt och ljust läge (nuvarande {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "mörkt läge"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "ljus läge"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 objekt|{count} objekt"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "Ett dokument märkt|{count} dokument märkta"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} med \"{tagName}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Dokumentsidor"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Föregående"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Nästa"
   },
   "theme.docs.versionBadge.label": {
     "message": "Version: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Redigera den här sidan"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Direktlänk till {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Detta är opublicerad dokumentation för {siteTitle} {versionLabel} version."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Detta är dokumentation för {siteTitle} {versionLabel}, som inte längre underhålls."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "För uppdaterad dokumentation, se {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "senaste versionen"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " den {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " av {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Senast uppdaterad{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versioner"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "Taggar:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Stäng"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "försiktighet"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "fara"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "information"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "not"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "tips"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "varning"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Bloggens senaste inläggsnavigering"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Kopierad"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Kopiera kod till urklipp"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Kopiera"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Växla radbrytning"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Expandera sidomeny kategori '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Kollapsa sidomeny kategori '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Huvudmeny"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Vi kunde inte hitta det du letade efter."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Vänligen kontakta ägaren av sidan som länkade dig till den ursprungliga URL:en och meddela dem att deras länk är trasig."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "På den här sidan"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Språk"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "En min läsning|{readingTime} min läsning"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Dokumentsidomeny"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Kollapsa sidomeny"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Kollapsa sidomeny"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Startsidan"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Läs mer"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Läs mer om {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Stäng navigeringsfält"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Tillbaka till huvudmenyn"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Expandera sidomeny"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Expandera sidomeny"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Växla navigeringsfält"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Visa alla {count} resultat"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "Ett dokument hittades|{count} dokument hittades"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Sökresultat för \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Sök i dokumentationen"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Skriv din sökning här"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Sök"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Sök med Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Inga resultat hittades"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Hämtar nya resultat..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Sök"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Rensa sökfrågan"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Avbryt"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Senaste"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Inga senaste sökningar"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Spara denna sökning"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Ta bort denna sökning från historiken"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Favoriter"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Ta bort denna sökning från favoriter"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Kunde inte hämta resultat"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Kolla gärna din nätverksanslutning."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "att välja"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Enter-tangent"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "att navigera"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Piltangent upp"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Piltangent ner"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "att stänga"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Escape-tangent"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Sök genom",
+    "description": "Texten förklarar att sökningen görs med Algolia"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Inga resultat för"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Försök att söka efter"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Tror du att denna sökning borde ge resultat?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Låt oss veta."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Sök dokumentation"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "Ett inlägg|{count} inlägg"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} taggade med \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Författare",
+    "description": "Titeln på författarsidan"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Visa alla författare"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Denna författare har inte skrivit några inlägg än."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Olistad sida"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Denna sida är olistad. Sökmotorer kommer inte att indexera den och endast användare med en direktlänk kan komma åt den."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Utkast"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Denna sida är ett utkast. Den kommer endast att vara synlig i utvecklingsläge och uteslutas från produktionsbygget."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Försök igen"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Hoppa till huvudinnehåll"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "Taggar"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Kom igång"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Stödda enheter"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Höj dina LEGO®-skapelser"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Ladda ner Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Du kan ladda ner appen från de officiella butikerna:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "systemläge"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Expandera rullgardinsmenyn"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Kollapsa rullgardinsmenyn"
   }
 }

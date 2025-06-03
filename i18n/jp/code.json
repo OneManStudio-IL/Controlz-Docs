@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "ページが見つかりません"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "おっと！ページが見つかりません。"
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "お探しのページは存在しません。"
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "アクセスしようとしたのは"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "戻る"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "ホームページ"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "このページはクラッシュしました。"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "トップに戻る"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "アーカイブ"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "アーカイブ"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "ブログリストページのナビゲーション"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "新しいエントリ"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "古いエントリ"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "ブログ投稿ページのナビゲーション"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "新しい投稿"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "古い投稿"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "すべてのタグを見る"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "パンくずリスト"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "ダークモードとライトモードを切り替えます（現在のモード：{mode}）"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "ダークモード"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "ライトモード"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 アイテム|{count} アイテム"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "1 件のドキュメント|{count} 件のドキュメント"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "\"{nDocsTagged}\" のタグ付き"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "ドキュメントページ"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "前へ"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "次へ"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "バージョン: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "このページを編集"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "{heading} への直接リンク"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "{siteTitle} {versionLabel} バージョンの未公開ドキュメントです。"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "{siteTitle} {versionLabel} バージョンのドキュメントは、現在メンテナンスされていません。"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "最新のドキュメントについては、{latestVersionLink} ({versionLabel}) をご覧ください。"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "最新バージョン"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " {date} に"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " {user} によって"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "最終更新{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "バージョン"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "タグ:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "閉じる"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "注意"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "危険"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "情報"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "メモ"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "ヒント"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "警告"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "最新のブログ記事のナビゲーション"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "コピーしました"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "コードをクリップボードにコピー"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "コピー"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "折り返しを切り替える"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "カテゴリ '{label}' を展開"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "カテゴリ '{label}' を折りたたむ"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "メイン"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "お探しのものが見つかりませんでした。"
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "元のURLにリンクを貼ったサイトの管理者に連絡して、リンクが壊れていることを知らせてください。"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "このページ"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "言語"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 分|{readingTime} 分"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "ドキュメントのサイドバー"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "サイドバーを折りたたむ"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "サイドバーを折りたたむ"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "ホームページ"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "続きを読む"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "{title} についてもっと読む"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "ナビゲーションバーを閉じる"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← メインメニューに戻る"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "サイドバーを展開"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "サイドバーを展開"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "ナビゲーションバーを切り替える"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "{count} 件の結果をすべて表示"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "1 件のドキュメント|{count} 件のドキュメント"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "\"{query}\" の検索結果"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "ドキュメントを検索"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "検索語をここに入力"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "検索"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Algolia 検索"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "結果は見つかりませんでした"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "新しい結果を取得中..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "検索"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "クエリをクリア"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "キャンセル"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "最近の検索"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "最近の検索はありません"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "この検索を保存"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "検索履歴から削除"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "お気に入り"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "お気に入りから削除"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "結果を取得できませんでした"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "ネットワーク接続を確認してください。"
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "選択するには"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "エンターキー"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "ナビゲートするには"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "上矢印キー"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "下矢印キー"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "閉じるには"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "エスケープキー"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "検索元",
+    "description": "この検索がAlgoliaで行われていることを示します"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "結果がありません"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "以下で検索してみてください"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "このクエリが結果を返すべきだと思いますか？"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "お知らせください"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "ドキュメントを検索"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 投稿|{count} 投稿"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "\"{tagName}\" でタグ付けされた {nPosts} 投稿"
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "著者",
+    "description": "著者ページのタイトル"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "すべての著者を見る"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "この著者はまだ投稿していません。"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "未公開ページ"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "このページは未公開です。検索エンジンにインデックスされることはなく、直接リンクを持っているユーザーのみがアクセスできます。"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "ドラフトページ"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "このページはドラフトです。開発環境でのみ表示され、公開ビルドには含まれません。"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "もう一度試してください"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "メインコンテンツに移動"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "タグ"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "始める"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "サポートされているデバイス"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "あなたのLEGO®作品を高めよう"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Controlzをダウンロード"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "公式ストアからアプリをダウンロードできます："
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "システムモード"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "ドロップダウンを展開"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "ドロップダウンを折りたたむ"
   }
 }

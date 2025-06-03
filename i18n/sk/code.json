@@ -1,376 +1,374 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Stránka nenájdená"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Ups! Stránka nenájdená."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Stránka, ktorú hľadáte, neexistuje."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Pokúsili ste sa dostať na"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Vrátiť sa na"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "hlavnú stránku"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Táto stránka sa zrútila."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Posuňte sa späť na začiatok"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Archív"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Archív"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Navigácia po stránkach blogu"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Novšie príspevky"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Staršie príspevky"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Navigácia po stránkach blogového príspevku"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Novší príspevok"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Starší príspevok"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Zobraziť všetky tagy"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "Breadcrumbs"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Prepnúť medzi tmavým a svetlým režimom (aktuálne {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "tmavý režim"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "svetlý režim"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 položka|{count} položiek"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "Jeden dokument označený|{count} dokumentov označených"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} s \"{tagName}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Stránky dokumentov"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Predchádzajúce"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Ďalšie"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Verzia: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Upraviť túto stránku"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Priamy odkaz na {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Toto je nepublikovaná dokumentácia pre verziu {siteTitle} {versionLabel}."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Toto je dokumentácia pre verziu {siteTitle} {versionLabel}, ktorá už nie je aktívne udržiavaná."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Pre aktuálnu dokumentáciu si pozrite {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "najnovšia verzia"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": "dňa {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": "od {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Naposledy aktualizované{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Verzie"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "Tagy:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Zatvoriť"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "pozor"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "nebezpečenstvo"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "informácie"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "poznámka"
   },
   "theme.admonition.tip": {
     "message": "tip"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "upozornenie"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Navigácia po nedávnych príspevkoch blogu"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Skopírované"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Skopírovať kód do schránky"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Kopírovať"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Prepnúť zalamovanie riadkov"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Rozbaliť kategóriu postranného panela '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Zbaliť kategóriu postranného panela '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Hlavná"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Nenašli sme, čo ste hľadali."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Kontaktujte vlastníka stránky, ktorá vás prepojila na pôvodnú URL a informujte ho, že jeho odkaz je nefunkčný."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Na tejto stránke"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Jazyky"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "Jedna minúta čítania|{readingTime} minút čítania"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Postranný panel dokumentácie"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Zbaliť postranný panel"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Zbaliť postranný panel"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Hlavná stránka"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Čítať viac"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Čítať viac o {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Zatvoriť navigačný panel"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Späť do hlavného menu"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Rozbaliť postranný panel"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Rozbaliť postranný panel"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Prepnúť navigačný panel"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Zobraziť všetky {count} výsledky"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "Nájdený jeden dokument|Nájdených {count} dokumentov"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Výsledky vyhľadávania pre \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Vyhľadávanie dokumentácie"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Zadajte svoje hľadanie sem"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Vyhľadávanie"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Vyhľadávanie cez Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Žiadne výsledky neboli nájdené"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Získavanie nových výsledkov..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Vyhľadávanie"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Vymazať dotaz"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Zrušiť"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Nedávne"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Žiadne nedávne vyhľadávania"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Uložiť toto vyhľadávanie"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Odstrániť toto vyhľadávanie z histórie"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Obľúbené"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Odstrániť toto vyhľadávanie z obľúbených"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Nie je možné získať výsledky"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Skontrolujte pripojenie k sieti."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "pre výber"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Kláves Enter"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "na navigáciu"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Šípka hore"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Šípka dole"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "na zatvorenie"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Kláves Escape"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Vyhľadávanie cez"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Žiadne výsledky pre"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Skúste hľadať"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Myslíte, že by tento dotaz mal vrátiť výsledky?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Dajte nám vedieť."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Vyhľadávať dokumenty"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "Jeden príspevok|{count} príspevky"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} označených tagom \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Autori"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Zobraziť všetkých autorov"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Tento autor zatiaľ nenapísal žiadne príspevky."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Nezverejnená stránka"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Táto stránka nie je zverejnená. Vyhľadávače ju nebudú indexovať a prístup k nej bude možný iba pomocou priameho odkazu."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Stránka v rozpracovaní"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Táto stránka je v rozpracovaní. Bude viditeľná iba v dev a bude vylúčená z produkčnej verzie."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Skúste znova"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Preskočiť na hlavný obsah"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "Tagy"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Začať"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Podporované zariadenia"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Pozdvihnite svoje LEGO® výtvory"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Stiahnite Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Aplikáciu si môžete stiahnuť z oficiálnych obchodov:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "systémový režim"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Rozbaliť roletu"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Zbaliť roletu"
   }
 }

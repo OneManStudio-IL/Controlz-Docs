@@ -1,376 +1,374 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Сторінку не знайдено"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Упс! Сторінку не знайдено."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Сторінка, яку ви шукаєте, не існує."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Ви намагаєтесь перейти на"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Повернутися на"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "головну сторінку"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Ця сторінка зламалася."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Повернутися на початок"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Архів"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Архів"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Навігація по сторінках блогу"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Новіші записи"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Старіші записи"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Навігація по сторінках запису блогу"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Новіший запис"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Старіший запис"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Показати всі теги"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Хлібні крихти"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Перемикання між темною та світлою темою (актуальна {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "темна тема"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "світла тема"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 елемент|{count} елементи"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "Один документ позначений|{count} документи позначені"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} з \"{tagName}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Сторінки документів"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Попередній"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Наступний"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Версія: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Редагувати цю сторінку"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Пряме посилання на {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Це нерелізована документація для версії {siteTitle} {versionLabel}."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Це документація для версії {siteTitle} {versionLabel}, яка більше не підтримується."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Для актуальної документації перегляньте {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "остання версія"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": "дата {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": "від {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Останнє оновлення{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Версії"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "Теги:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Закрити"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "обережно"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "небезпека"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "інформація"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "замітка"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "порада"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "попередження"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Навігація по недавнім записам блогу"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Скопійовано"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Скопіювати код у буфер обміну"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Копіювати"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Перемикання обгортання рядків"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Розгорнути категорію бокової панелі '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Згорнути категорію бокової панелі '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Головна"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Ми не змогли знайти те, що ви шукаєте."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Зв'яжіться з власником сайту, який послав вас на цю URL-адресу, і повідомте йому, що її посилання не працює."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "На цій сторінці"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Мови"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "Одна хвилина читання|{readingTime} хвилин читання"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Бокова панель документації"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Згорнути бокову панель"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Згорнути бокову панель"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Головна"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Читати далі"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Читати більше про {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Закрити навігаційну панель"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Повернутися до головного меню"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Розгорнути бокову панель"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Розгорнути бокову панель"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Перемикати навігаційну панель"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Показати всі {count} результати"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "Знайдений один документ|Знайдено {count} документів"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Результати пошуку для \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Пошук документації"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Введіть свій пошук тут"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Пошук"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Пошук через Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Не знайдено жодного результату"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Отримання нових результатів..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Пошук"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Очистити запит"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Скасувати"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Останні"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Немає останніх пошуків"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Зберегти цей пошук"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Видалити цей пошук з історії"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Улюблені"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Видалити цей пошук з улюблених"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Не вдалося отримати результати"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Перевірте підключення до мережі."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "для вибору"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Клавіша Enter"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "для навігації"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Стрілка вгору"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Стрілка вниз"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "для закриття"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Клавіша Escape"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Пошук через"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Не знайдено результатів для"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Спробуйте шукати"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Ви думаєте, що цей запит повинен повернути результати?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Повідомте нам."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Шукати документи"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "Один пост|{count} пости"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} позначено тегом \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Автори"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Показати всіх авторів"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Цей автор ще не написав жодного посту."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Невідома сторінка"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Ця сторінка не опублікована. Пошукові системи не індексують її, і доступ до неї можливий тільки за прямим посиланням."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Сторінка в процесі"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Ця сторінка ще в розробці. Вона буде видимою лише в режимі розробника і виключена з продукційної версії."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Спробуйте ще раз"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Перейти до основного контенту"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "Теги"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Почати"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Підтримувані пристрої"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Підвищте свої LEGO® творіння"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Завантажити Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Ви можете завантажити додаток з офіційних магазинів:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "системний режим"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Розгорнути меню"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Згорнути меню"
   }
 }

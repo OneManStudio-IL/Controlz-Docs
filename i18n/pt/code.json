@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Página não encontrada"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Ops! Página não encontrada."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "A página que você está procurando não existe."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Você tentou acessar"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Voltar para"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "página inicial"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Esta página falhou."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Voltar ao topo"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Arquivo"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Arquivo"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Navegação do blog"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Postagens mais recentes"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Postagens mais antigas"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Navegação do post do blog"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Post mais recente"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Post mais antigo"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Ver todos os tags"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Trilha de navegação"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Alternar entre modo claro e escuro (atualmente {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "modo escuro"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "modo claro"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 item|{count} itens"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "1 documento|{count} documentos marcados"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} com a tag \"{tagName}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Páginas de documentos"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Anterior"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Próximo"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versão: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Editar esta página"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Link direto para {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Esta é a documentação da versão {siteTitle} {versionLabel}, que ainda não foi lançada."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Esta é a documentação da versão {siteTitle} {versionLabel}, que não está mais sendo mantida."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Para a documentação mais recente, consulte {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "última versão"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " em {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " por {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Última atualização{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versões"
   },
   "theme.tags.tagsListLabel": {
     "message": "Tags:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Fechar"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "cuidado"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "perigo"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "informação"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "nota"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "dica"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "aviso"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Navegação das postagens do blog"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Copiado"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Copiar código para a área de transferência"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Copiar"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Alternar quebra de linha"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Expandir categoria no painel lateral '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Colapsar categoria no painel lateral '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Página inicial"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Não conseguimos encontrar o que você está procurando."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Entre em contato com o proprietário da página que lhe enviou o URL original e avise-o de que o link está desatualizado."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Nesta página"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Idiomas"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 minuto|{readingTime} minutos"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Painel lateral de documentos"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Recolher painel lateral"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Recolher painel lateral"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Página inicial"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Leia mais"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Leia mais sobre {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Fechar barra de navegação"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Voltar para o menu principal"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Expandir painel lateral"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Expandir painel lateral"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Alternar barra de navegação"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Ver todos os {count} resultados"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "1 documento|{count} documentos"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Resultados da pesquisa para \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Pesquisar na documentação"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Digite sua pesquisa aqui"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Pesquisar"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Pesquisar com Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Sem resultados"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Buscando novos resultados..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Pesquisar"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Limpar consulta"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Cancelar"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Recentes"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Sem pesquisas recentes"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Salvar esta pesquisa"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Remover esta pesquisa do histórico"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Favoritos"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Remover esta pesquisa dos favoritos"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Falha ao obter resultados"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Verifique sua conexão de rede."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "para selecionar"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Tecla Enter"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "para navegar"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Seta para cima"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Seta para baixo"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "para fechar"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Tecla Escape"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Pesquisar por",
+    "description": "Texto explicativo sobre a pesquisa realizada com Algolia"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Sem resultados para"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Tente pesquisar"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Você acha que essa consulta deveria ter resultados?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Nos avise."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Pesquisar documentos"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 post|{count} posts"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} marcados com \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Autores",
+    "description": "Título da página dos autores"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Ver todos os autores"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Este autor ainda não escreveu posts."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Página não listada"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Esta página não está listada. Os motores de busca não a indexam, e apenas usuários com o link direto podem acessá-la."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Página em rascunho"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Esta página está em versão rascunho. Ela só estará disponível na versão de desenvolvimento e será excluída da versão de produção."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Tente novamente"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Pular para o conteúdo principal"
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tags"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Começar"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Dispositivos compatíveis"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Eleve suas criações LEGO®"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Baixe o Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Você pode baixar o aplicativo nas lojas oficiais:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "modo do sistema"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Expandir o menu suspenso"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Recolher o menu suspenso"
   }
 }

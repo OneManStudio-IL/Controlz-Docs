@@ -1,376 +1,374 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Pagina nu a fost găsită"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Ups! Pagina nu a fost găsită."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Pagina pe care o căutați nu există."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Ați încercat să accesați"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Întoarce-te la"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "pagina principală"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Această pagină s-a prăbușit."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Derulează înapoi la sus"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Arhivă"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Arhivă"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Navigare listă blog"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Intrări mai noi"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Intrări mai vechi"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Navigare postare blog"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Postare mai recentă"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Postare mai veche"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Vezi toate etichetele"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Fir de evidență"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Comută între modul întunecat și luminos (actualmente {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "mod întunecat"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "mod luminos"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 articol|{count} articole"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "Un document etichetat|{count} documente etichetate"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "{nDocsTagged} cu \"{tagName}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Pagini documente"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Anterior"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Următorul"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versiune: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Editează această pagină"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Link direct către {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Aceasta este documentația nepublicată pentru versiunea {siteTitle} {versionLabel}."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Aceasta este documentația pentru versiunea {siteTitle} {versionLabel}, care nu mai este activ întreținută."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "Pentru documentația actualizată, vizitează {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "ultima versiune"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": " pe {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": " de {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Ultima actualizare{atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versiuni"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:"
+    "message": "Etichete:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Închide"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "atenție"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "pericol"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "informație"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "notă"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "sfat"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "avertisment"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Navigare postări blog"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Copiat"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Copiază codul în clipboard"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Copiază"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Comută înfășurarea cuvintelor"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Extinde categoria din panoul lateral '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Reduce categoria din panoul lateral '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Principal"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Nu am găsit ceea ce căutați."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Vă rugăm să contactați proprietarul paginii care v-a trimis URL-ul original și să-l anunțați că linkul lor este defect."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Pe această pagină"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Limbi"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 minut de citit|{readingTime} minute de citit"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Panou lateral documente"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Recolapsează panoul lateral"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Recolapsează panoul lateral"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Pagina principală"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Citește mai mult"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Citește mai mult despre {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Închide bara de navigare"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Întoarce-te la meniul principal"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Extinde panoul lateral"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Extinde panoul lateral"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Comută bara de navigare"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Vezi toate cele {count} rezultate"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "1 document găsit|{count} documente găsite"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Rezultate căutare pentru \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Căutați în documentație"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Introduceți căutarea aici"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Căutare"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Căutare cu Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Nu au fost găsite rezultate"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Se caută noi rezultate..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Căutare"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Șterge interogarea"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Anulează"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Recente"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Nu sunt căutări recente"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Salvează această căutare"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Elimină această căutare din istoric"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
     "message": "Favorite"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Elimină această căutare din favorite"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Imposibil de obținut rezultatele"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Verificați conexiunea la rețea."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "pentru a selecta"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Tasta Enter"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "pentru a naviga"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Săgeată sus"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Săgeată jos"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "pentru a închide"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Tasta Escape"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Căutare după"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Fără rezultate pentru"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Încercați căutarea pentru"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Credeți că această căutare ar trebui să aibă rezultate?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Spuneți-ne."
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Căutare documente"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 postare|{count} postări"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "{nPosts} etichetate cu \"{tagName}\""
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Autori"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Vezi toți autorii"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Acest autor nu a scris încă postări."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Pagina nelistată"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Această pagină nu este listată. Motoarele de căutare nu o indexează și doar utilizatorii care au linkul direct o pot accesa."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Pagina în schiță"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Această pagină este în versiune schiță. Va fi disponibilă doar în dezvoltare și va fi eliminată din versiunea de producție."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Încercați din nou"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Săriți la conținutul principal"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags"
+    "message": "Etichete"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Începe"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Dispozitive suportate"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Îmbunătățește-ți creațiile LEGO®"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Descarcă Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Poți descărca aplicația din magazinele oficiale:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "modul sistem"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Extinde meniul derulant"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Reduce meniul derulant"
   }
 }

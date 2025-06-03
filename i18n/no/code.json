@@ -1,376 +1,376 @@
 {
   "theme.NotFound.title": {
-    "message": "Page Not Found"
+    "message": "Side ikke funnet"
   },
   "notfound.title": {
-    "message": "Oops! Page not found."
+    "message": "Oops! Side ikke funnet."
   },
   "notfound.message1": {
-    "message": "The page you are looking for doesn't exist."
+    "message": "Siden du leter etter eksisterer ikke."
   },
   "notfound.message2": {
-    "message": "You tried to access"
+    "message": "Du prøvde å få tilgang til"
   },
   "notfound.goBack": {
-    "message": "Go back to"
+    "message": "Tilbake"
   },
   "notfound.homepageLink": {
-    "message": "the homepage"
+    "message": "Hjemmeside"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed."
+    "message": "Denne siden har krasjet."
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top"
+    "message": "Tilbake til toppen"
   },
   "theme.blog.archive.title": {
-    "message": "Archive"
+    "message": "Arkiv"
   },
   "theme.blog.archive.description": {
-    "message": "Archive"
+    "message": "Arkiv"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation"
+    "message": "Navigering for bloggliste"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries"
+    "message": "Nyere innlegg"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Older entries"
+    "message": "Eldre innlegg"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation"
+    "message": "Navigering for blogginnleggside"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post"
+    "message": "Nyere innlegg"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Older post"
+    "message": "Eldre innlegg"
   },
   "theme.tags.tagsPageLink": {
-    "message": "View all tags"
+    "message": "Se alle tags"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs"
+    "message": "Brødsmuler"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})"
+    "message": "Bytt mellom mørk og lys modus (nåværende modus: {mode})"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode"
+    "message": "Mørk modus"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode"
+    "message": "Lys modus"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items"
+    "message": "1 element|{count} elementer"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged"
+    "message": "1 dokument|{count} dokumenter"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\""
+    "message": "Tagget med \"{nDocsTagged}\""
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages"
+    "message": "Dokumentside"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous"
+    "message": "Forrige"
   },
   "theme.docs.paginator.next": {
-    "message": "Next"
+    "message": "Neste"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Versjon: {versionLabel}"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page"
+    "message": "Rediger denne siden"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}"
+    "message": "Direkte link til {heading}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
+    "message": "Dette er den uferdige dokumentasjonen for {siteTitle} {versionLabel} versjon."
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
+    "message": "Dokumentasjonen for {siteTitle} {versionLabel} versjon vedlikeholdes ikke lenger."
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    "message": "For den nyeste dokumentasjonen, se {latestVersionLink} ({versionLabel})."
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version"
+    "message": "Nyeste versjon"
   },
   "theme.lastUpdated.atDate": {
-    "message": " on {date}"
+    "message": "den {date}"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}"
+    "message": "av {user}"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}"
+    "message": "Sist oppdatert {atDate}{byUser}"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions"
+    "message": "Versjoner"
   },
   "theme.tags.tagsListLabel": {
     "message": "Tags:"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close"
+    "message": "Lukk"
   },
   "theme.admonition.caution": {
-    "message": "caution"
+    "message": "Vær forsiktig"
   },
   "theme.admonition.danger": {
-    "message": "danger"
+    "message": "Fare"
   },
   "theme.admonition.info": {
-    "message": "info"
+    "message": "Informasjon"
   },
   "theme.admonition.note": {
-    "message": "note"
+    "message": "Merk"
   },
   "theme.admonition.tip": {
-    "message": "tip"
+    "message": "Tips"
   },
   "theme.admonition.warning": {
-    "message": "warning"
+    "message": "Advarsel"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation"
+    "message": "Navigering for de nyeste blogginnleggene"
   },
   "theme.CodeBlock.copied": {
-    "message": "Copied"
+    "message": "Kopiert"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard"
+    "message": "Kopier kode til utklippstavle"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copy"
+    "message": "Kopier"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap"
+    "message": "Slå på linjebryting"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'"
+    "message": "Utvid kategorien '{label}'"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'"
+    "message": "Skjul kategorien '{label}'"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Main"
+    "message": "Hoved"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for."
+    "message": "Vi kunne ikke finne det du leter etter."
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    "message": "Gi beskjed til administratoren av nettstedet der du fant lenken om at lenken er brutt."
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page"
+    "message": "Denne siden"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages"
+    "message": "Språk"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read"
+    "message": "1 minutt|{readingTime} minutter"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar"
+    "message": "Navigasjonsmeny for dokumenter"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar"
+    "message": "Skjul sidepanel"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar"
+    "message": "Skjul sidepanel"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page"
+    "message": "Hjem"
   },
   "theme.blog.post.readMore": {
-    "message": "Read more"
+    "message": "Les mer"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}"
+    "message": "Les mer om {title}"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar"
+    "message": "Lukk navigasjonsmeny"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu"
+    "message": "← Tilbake til hovedmeny"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar"
+    "message": "Utvid sidepanel"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar"
+    "message": "Utvid sidepanel"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar"
+    "message": "Skru på eller av navigasjonsmenyen"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Se alle {count} resultater"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found"
+    "message": "1 dokument|{count} dokumenter"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\""
+    "message": "Søkeresultater for \"{query}\""
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation"
+    "message": "Søk dokument"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here"
+    "message": "Skriv søkespørsmål her"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Search"
+    "message": "Søk"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia"
+    "message": "Søk med Algolia"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No results were found"
+    "message": "Ingen resultater funnet"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results..."
+    "message": "Henter nye resultater..."
   },
   "theme.SearchBar.label": {
-    "message": "Search"
+    "message": "Søk"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query"
+    "message": "Tilbakestill søk"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel"
+    "message": "Avbryt"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent"
+    "message": "Nylige søk"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches"
+    "message": "Ingen nylige søk"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search"
+    "message": "Lagre dette søket"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history"
+    "message": "Fjern fra nylige søk"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite"
+    "message": "Favoritter"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites"
+    "message": "Fjern fra favoritter"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results"
+    "message": "Kunne ikke hente resultater"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection."
+    "message": "Kontroller nettverkstilkoblingen din."
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select"
+    "message": "Velg for"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key"
+    "message": "Enter-tast"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate"
+    "message": "Naviger med"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up"
+    "message": "Pil opp"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down"
+    "message": "Pil ned"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close"
+    "message": "Lukk med"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key"
+    "message": "Escape-tast"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
+    "message": "Søk med",
+    "description": "Indikerer at søket utføres via Algolia"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for"
+    "message": "Ingen resultater"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for"
+    "message": "Prøv dette søket"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?"
+    "message": "Tror du det burde være søkeresultater?"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know."
+    "message": "Gi oss beskjed"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs"
+    "message": "Søk dokumenter"
   },
   "theme.blog.post.plurals": {
-    "message": "One post|{count} posts"
+    "message": "1 innlegg|{count} innlegg"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\""
+    "message": "Innlegg tagget med \"{tagName}\" ({nPosts})"
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
-    "description": "The title of the authors page"
+    "message": "Forfattere",
+    "description": "Tittel for forfatterens side"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View all authors"
+    "message": "Se alle forfattere"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet."
+    "message": "Denne forfatteren har ikke publisert noen innlegg."
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page"
+    "message": "Ulistet side"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    "message": "Denne siden er ikke oppført. Den vil ikke bli indeksert av søkemotorer og er kun tilgjengelig for brukere med direkte lenke."
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page"
+    "message": "Utviklingsside"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    "message": "Denne siden er et utkast. Den er kun synlig i utviklingsmiljøet og vil ikke bli inkludert i den offentlige versjonen."
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again"
+    "message": "Prøv igjen"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content"
+    "message": "Gå til hovedinnhold"
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tags"
   },
   "Get Started": {
-    "message": "Get Started"
+    "message": "Kom i gang"
   },
   "Supported devices": {
-    "message": "Supported devices"
+    "message": "Støttede enheter"
   },
   "Elevate Your LEGO® Creations": {
-    "message": "Elevate Your LEGO® Creations"
+    "message": "Hev dine LEGO®-kreasjoner"
   },
   "Download the Controlz": {
-    "message": "Download the Controlz"
+    "message": "Last ned Controlz"
   },
   "You can download the app from the official stores:": {
-    "message": "You can download the app from the official stores:"
+    "message": "Du kan laste ned appen fra de offisielle butikkene:"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode"
+    "message": "Systemmodus"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown"
+    "message": "Utvid rullegardinmenyen"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown"
+    "message": "Skjul rullegardinmenyen"
   }
 }
