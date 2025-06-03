@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontrolz_docs=self.webpackChunkcontrolz_docs||[]).push([[7149],{4579:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/Controlz-Docs/pt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

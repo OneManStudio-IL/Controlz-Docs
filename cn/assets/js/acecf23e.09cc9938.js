@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontrolz_docs=self.webpackChunkcontrolz_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/Controlz-Docs/cn/blog","blogTitle":"Blog","authorsListPath":"/Controlz-Docs/cn/blog/authors"}')}}]);
