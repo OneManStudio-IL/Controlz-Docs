@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentácia",
+    "description": "Názov stĺpca odkazov v pätičke s názvom Dokumentácia"
+  },
+  "link.title.Community": {
+    "message": "Komunita",
+    "description": "Názov stĺpca odkazov v pätičke s názvom Komunita"
+  },
+  "link.title.More": {
+    "message": "Viac",
+    "description": "Názov stĺpca odkazov v pätičke s názvom Viac"
+  },
+  "link.title.Legal": {
+    "message": "Právne",
+    "description": "Názov stĺpca odkazov v pätičke s názvom Právne"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentácia",
+    "description": "Odkaz v pätičke s názvom Dokumentácia vedúci na /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Odkaz v pätičke s názvom Telegram vedúci na https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Novinky",
+    "description": "Odkaz v pätičke s názvom Novinky vedúci na /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Zásady ochrany osobných údajov",
+    "description": "Odkaz v pätičke s názvom Zásady ochrany osobných údajov vedúci na /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Podmienky",
+    "description": "Odkaz v pätičke s názvom Podmienky vedúci na /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Copyright v pätičke"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Alternatívny text loga v pätičke"
+  }
+}

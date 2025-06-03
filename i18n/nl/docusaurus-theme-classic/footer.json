@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Documentatie",
+    "description": "De titel van de kolom met footerlinks getiteld Docs in de footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "De titel van de kolom met footerlinks getiteld Community in de footer"
+  },
+  "link.title.More": {
+    "message": "Meer",
+    "description": "De titel van de kolom met footerlinks getiteld Meer in de footer"
+  },
+  "link.title.Legal": {
+    "message": "Juridisch",
+    "description": "De titel van de kolom met footerlinks getiteld Juridisch in de footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentatie",
+    "description": "Het label van footerlink met label Documentatie die linkt naar /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Het label van footerlink met label Telegram die linkt naar https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Nieuws",
+    "description": "Het label van footerlink met label Nieuws die linkt naar /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Privacybeleid",
+    "description": "Het label van footerlink met label Privacybeleid die linkt naar /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Voorwaarden",
+    "description": "Het label van footerlink met label Voorwaarden die linkt naar /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Het copyright in de footer"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "De alt-tekst van het footerlogo"
+  }
+}

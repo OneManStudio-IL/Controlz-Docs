@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Documentos",
+    "description": "El título de la columna de enlaces del pie de página con título=Documentos en el pie de página"
+  },
+  "link.title.Community": {
+    "message": "Comunidad",
+    "description": "El título de la columna de enlaces del pie de página con título=Comunidad en el pie de página"
+  },
+  "link.title.More": {
+    "message": "Más",
+    "description": "El título de la columna de enlaces del pie de página con título=Más en el pie de página"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "El título de la columna de enlaces del pie de página con título=Legal en el pie de página"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentación",
+    "description": "La etiqueta del enlace del pie de página con etiqueta=Documentación que enlaza a /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "La etiqueta del enlace del pie de página con etiqueta=Telegram que enlaza a https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Noticias",
+    "description": "La etiqueta del enlace del pie de página con etiqueta=Noticias que enlaza a /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Política de privacidad",
+    "description": "La etiqueta del enlace del pie de página con etiqueta=Política de privacidad que enlaza a /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Términos",
+    "description": "La etiqueta del enlace del pie de página con etiqueta=Términos que enlaza a /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Derechos de autor © 2025 Controlz, Inc.",
+    "description": "Los derechos de autor en el pie de página"
+  },
+  "logo.alt": {
+    "message": "Logotipo de Controlz",
+    "description": "El texto alternativo del logotipo en el pie de página"
+  }
+}

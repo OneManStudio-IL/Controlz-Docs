@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Documentos",
+    "description": "O título da coluna de links do rodapé com título=Documentos no rodapé"
+  },
+  "link.title.Community": {
+    "message": "Comunidade",
+    "description": "O título da coluna de links do rodapé com título=Comunidade no rodapé"
+  },
+  "link.title.More": {
+    "message": "Mais",
+    "description": "O título da coluna de links do rodapé com título=Mais no rodapé"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "O título da coluna de links do rodapé com título=Legal no rodapé"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentação",
+    "description": "O rótulo do link do rodapé com rótulo=Documentação que liga para /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "O rótulo do link do rodapé com rótulo=Telegram que liga para https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Notícias",
+    "description": "O rótulo do link do rodapé com rótulo=Notícias que liga para /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Política de privacidade",
+    "description": "O rótulo do link do rodapé com rótulo=Política de privacidade que liga para /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Termos",
+    "description": "O rótulo do link do rodapé com rótulo=Termos que liga para /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Direitos autorais © 2025 Controlz, Inc.",
+    "description": "Os direitos autorais do rodapé"
+  },
+  "logo.alt": {
+    "message": "Logótipo Controlz",
+    "description": "O texto alternativo do logótipo do rodapé"
+  }
+}

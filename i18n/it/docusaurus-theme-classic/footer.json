@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Documentazione",
+    "description": "Il titolo della colonna dei link nel footer con titolo=Docs"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "Il titolo della colonna dei link nel footer con titolo=Community"
+  },
+  "link.title.More": {
+    "message": "Altro",
+    "description": "Il titolo della colonna dei link nel footer con titolo=More"
+  },
+  "link.title.Legal": {
+    "message": "Legale",
+    "description": "Il titolo della colonna dei link nel footer con titolo=Legal"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentazione",
+    "description": "L'etichetta del link nel footer con label=Documentation che punta a /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "L'etichetta del link nel footer con label=Telegram che punta a https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Notizie",
+    "description": "L'etichetta del link nel footer con label=News che punta a /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Informativa sulla privacy",
+    "description": "L'etichetta del link nel footer con label=Privacy policy che punta a /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Termini",
+    "description": "L'etichetta del link nel footer con label=Terms che punta a /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Il copyright nel footer"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Il testo alternativo del logo nel footer"
+  }
+}

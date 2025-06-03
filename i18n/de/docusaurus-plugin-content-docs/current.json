@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Nächste",
+    "description": "Die Bezeichnung für die aktuelle Version"
+  },
+  "sidebar.tutorialSidebar.category.Introducing": {
+    "message": "Einführung",
+    "description": "Die Bezeichnung für die Kategorie Einführung in der Tutorial-Seitenleiste"
+  }
+}

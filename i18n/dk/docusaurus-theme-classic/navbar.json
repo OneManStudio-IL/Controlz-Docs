@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "Titlen i navigationsbaren"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "Alternativ tekst til logoet i navigationsbaren"
+  },
+  "item.label.Documentation": {
+    "message": "Dokumentation",
+    "description": "Navigationspunkt med etiketten Dokumentation"
+  },
+  "item.label.News": {
+    "message": "Nyheder",
+    "description": "Navigationspunkt med etiketten Nyheder"
+  }
+}

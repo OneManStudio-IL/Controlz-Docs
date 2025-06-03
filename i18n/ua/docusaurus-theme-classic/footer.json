@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Документація",
+    "description": "Заголовок стовпця посилань у нижньому колонтитулі з title=Docs"
+  },
+  "link.title.Community": {
+    "message": "Спільнота",
+    "description": "Заголовок стовпця посилань у нижньому колонтитулі з title=Community"
+  },
+  "link.title.More": {
+    "message": "Більше",
+    "description": "Заголовок стовпця посилань у нижньому колонтитулі з title=More"
+  },
+  "link.title.Legal": {
+    "message": "Правова інформація",
+    "description": "Заголовок стовпця посилань у нижньому колонтитулі з title=Legal"
+  },
+  "link.item.label.Documentation": {
+    "message": "Документація",
+    "description": "Мітка посилання у нижньому колонтитулі з label=Documentation, що веде до /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Мітка посилання у нижньому колонтитулі з label=Telegram, що веде до https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Новини",
+    "description": "Мітка посилання у нижньому колонтитулі з label=News, що веде до /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Політика конфіденційності",
+    "description": "Мітка посилання у нижньому колонтитулі з label=Privacy policy, що веде до /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Умови використання",
+    "description": "Мітка посилання у нижньому колонтитулі з label=Terms, що веде до /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "© 2025 Controlz, Inc. Всі права захищено.",
+    "description": "Авторське право у нижньому колонтитулі"
+  },
+  "logo.alt": {
+    "message": "Логотип Controlz",
+    "description": "Альтернативний текст логотипу у нижньому колонтитулі"
+  }
+}

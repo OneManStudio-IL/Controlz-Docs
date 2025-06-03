@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Docs dans le pied de page"
+  },
+  "link.title.Community": {
+    "message": "Communauté",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Communauté dans le pied de page"
+  },
+  "link.title.More": {
+    "message": "Plus",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Plus dans le pied de page"
+  },
+  "link.title.Legal": {
+    "message": "Mentions légales",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Mentions légales dans le pied de page"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Le libellé du lien de pied de page avec le label=Documentation pointant vers /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Le libellé du lien de pied de page avec le label=Telegram pointant vers https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Actualités",
+    "description": "Le libellé du lien de pied de page avec le label=Actualités pointant vers /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Politique de confidentialité",
+    "description": "Le libellé du lien de pied de page avec le label=Politique de confidentialité pointant vers /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Conditions",
+    "description": "Le libellé du lien de pied de page avec le label=Conditions pointant vers /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Droits d’auteur © 2025 Controlz, Inc.",
+    "description": "Le copyright du pied de page"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Le texte alternatif du logo dans le pied de page"
+  }
+}

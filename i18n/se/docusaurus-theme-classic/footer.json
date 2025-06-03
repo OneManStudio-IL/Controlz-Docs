@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentation",
+    "description": "Titeln på kolumnen med länkar i sidfoten med titeln Dokumentation"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "Titeln på kolumnen med länkar i sidfoten med titeln Community"
+  },
+  "link.title.More": {
+    "message": "Mer",
+    "description": "Titeln på kolumnen med länkar i sidfoten med titeln Mer"
+  },
+  "link.title.Legal": {
+    "message": "Juridik",
+    "description": "Titeln på kolumnen med länkar i sidfoten med titeln Juridik"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentation",
+    "description": "Etiketten för sidfotslänken Dokumentation som länkar till /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Etiketten för sidfotslänken Telegram som länkar till https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Nyheter",
+    "description": "Etiketten för sidfotslänken Nyheter som länkar till /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Integritetspolicy",
+    "description": "Etiketten för sidfotslänken Integritetspolicy som länkar till /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Villkor",
+    "description": "Etiketten för sidfotslänken Villkor som länkar till /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Sidfotens upphovsrätt"
+  },
+  "logo.alt": {
+    "message": "Controlz-logotyp",
+    "description": "Alternativ text för sidfotens logotyp"
+  }
+}

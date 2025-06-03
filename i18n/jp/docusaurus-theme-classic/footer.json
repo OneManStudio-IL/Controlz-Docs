@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "ドキュメント",
+    "description": "フッターのリンクカラム「Docs」のタイトル"
+  },
+  "link.title.Community": {
+    "message": "コミュニティ",
+    "description": "フッターのリンクカラム「Community」のタイトル"
+  },
+  "link.title.More": {
+    "message": "その他",
+    "description": "フッターのリンクカラム「More」のタイトル"
+  },
+  "link.title.Legal": {
+    "message": "法的情報",
+    "description": "フッターのリンクカラム「Legal」のタイトル"
+  },
+  "link.item.label.Documentation": {
+    "message": "ドキュメンテーション",
+    "description": "フッターリンク「Documentation」のラベル、/docs/Introducing/AboutApp へリンク"
+  },
+  "link.item.label.Telegram": {
+    "message": "テレグラム",
+    "description": "フッターリンク「Telegram」のラベル、https://t.me/procontrolzchat へリンク"
+  },
+  "link.item.label.News": {
+    "message": "ニュース",
+    "description": "フッターリンク「News」のラベル、/blog へリンク"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "プライバシーポリシー",
+    "description": "フッターリンク「Privacy policy」のラベル、/docs/Legal/PrivacyPolicy へリンク"
+  },
+  "link.item.label.Terms": {
+    "message": "利用規約",
+    "description": "フッターリンク「Terms」のラベル、/docs/Legal/Terms へリンク"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "フッターの著作権表示"
+  },
+  "logo.alt": {
+    "message": "Controlz ロゴ",
+    "description": "フッターのロゴの代替テキスト"
+  }
+}

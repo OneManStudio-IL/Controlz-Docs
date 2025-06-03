@@ -27,10 +27,31 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ru'],
+    locales: ['en', 'cn', 'cz', 'de', 'dk', 'es',
+              'fi', 'fr', 'it', 'jp', 'nl', 'no',
+              'pl', 'pt', 'ro', 'ru', 'se', 'sk', 
+              'ua'
+    ],
     localeConfigs: {
-      en: { label: 'English' },
+      en: { label: 'English', direction: 'ltr' },
+      cn: { label: '中文 (Zhōngwén)', direction: 'ltr' },
+      cz: { label: 'Čeština', direction: 'ltr' },
+      de: { label: 'Deutsch', direction: 'ltr' },
+      dk: { label: 'Dansk', direction: 'ltr' },
+      es: { label: 'Español', direction: 'ltr' },
+      fi: { label: 'Suomi', direction: 'ltr' },
+      fr: { label: 'Français', direction: 'ltr' },
+      it: { label: 'Italiano', direction: 'ltr' },
+      jp: { label: '日本語 (Nihongo)', direction: 'ltr' },
+      nl: { label: 'Nederlands', direction: 'ltr' },
+      no: { label: 'Norsk', direction: 'ltr' },
+      pl: { label: 'Polski', direction: 'ltr' },
+      pt: { label: 'Português', direction: 'ltr' },
+      ro: { label: 'Română', direction: 'ltr' },
       ru: { label: 'Русский', direction: 'ltr' },
+      se: { label: 'Svenska', direction: 'ltr' },
+      sk: { label: 'Slovenčina', direction: 'ltr' },
+      ua: { label: 'Українська', direction: 'ltr' }
     },
   },
 

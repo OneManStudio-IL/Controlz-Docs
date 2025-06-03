@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "文档",
+    "description": "页脚中标题为“Docs”的链接列标题"
+  },
+  "link.title.Community": {
+    "message": "社区",
+    "description": "页脚中标题为“Community”的链接列标题"
+  },
+  "link.title.More": {
+    "message": "更多",
+    "description": "页脚中标题为“More”的链接列标题"
+  },
+  "link.title.Legal": {
+    "message": "法律",
+    "description": "页脚中标题为“Legal”的链接列标题"
+  },
+  "link.item.label.Documentation": {
+    "message": "文档",
+    "description": "页脚链接标签为“Documentation”，链接至 /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "页脚链接标签为“Telegram”，链接至 https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "新闻",
+    "description": "页脚链接标签为“News”，链接至 /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "隐私政策",
+    "description": "页脚链接标签为“Privacy policy”，链接至 /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "条款",
+    "description": "页脚链接标签为“Terms”，链接至 /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "版权所有 © 2025 Controlz 公司",
+    "description": "页脚版权信息"
+  },
+  "logo.alt": {
+    "message": "Controlz 标志",
+    "description": "页脚标志的替代文本"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentit",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Yhteisö",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Lisää",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Laillinen",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentaatio",
+    "description": "The label of footer link with label=Documentation linking to /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Uutiset",
+    "description": "The label of footer link with label=News linking to /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Tietosuojakäytäntö",
+    "description": "The label of footer link with label=Privacy policy linking to /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Käyttöehdot",
+    "description": "The label of footer link with label=Terms linking to /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Tekijänoikeus © 2025 Controlz, Inc.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "The alt text of footer logo"
+  }
+}

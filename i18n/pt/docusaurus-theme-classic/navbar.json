@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "O título na barra de navegação"
+  },
+  "logo.alt": {
+    "message": "Logótipo Controlz",
+    "description": "O texto alternativo do logótipo na barra de navegação"
+  },
+  "item.label.Documentation": {
+    "message": "Documentação",
+    "description": "Item da barra de navegação com rótulo Documentação"
+  },
+  "item.label.News": {
+    "message": "Notícias",
+    "description": "Item da barra de navegação com rótulo Notícias"
+  }
+}

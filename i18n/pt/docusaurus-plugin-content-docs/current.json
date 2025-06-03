@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Próxima",
+    "description": "O rótulo para a versão atual"
+  },
+  "sidebar.tutorialSidebar.category.Introducing": {
+    "message": "Introdução",
+    "description": "O rótulo para a categoria Introdução na barra lateral tutorialSidebar"
+  }
+}

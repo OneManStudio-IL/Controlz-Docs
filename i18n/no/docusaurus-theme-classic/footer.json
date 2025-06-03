@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentasjon",
+    "description": "Tittelen for kolonnen med lenker i bunnteksten med tittel=Docs"
+  },
+  "link.title.Community": {
+    "message": "Fellesskap",
+    "description": "Tittelen for kolonnen med lenker i bunnteksten med tittel=Community"
+  },
+  "link.title.More": {
+    "message": "Mer",
+    "description": "Tittelen for kolonnen med lenker i bunnteksten med tittel=More"
+  },
+  "link.title.Legal": {
+    "message": "Juridisk",
+    "description": "Tittelen for kolonnen med lenker i bunnteksten med tittel=Legal"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentasjon",
+    "description": "Merkelappen for bunntekstlenken med label=Documentation som linker til /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Merkelappen for bunntekstlenken med label=Telegram som linker til https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Nyheter",
+    "description": "Merkelappen for bunntekstlenken med label=News som linker til /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Personvernregler",
+    "description": "Merkelappen for bunntekstlenken med label=Privacy policy som linker til /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Vilkår",
+    "description": "Merkelappen for bunntekstlenken med label=Terms som linker til /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Opphavsrett © 2025 Controlz, Inc.",
+    "description": "Opphavsrett i bunnteksten"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "Alternativ tekst for logoen i bunnteksten"
+  }
+}

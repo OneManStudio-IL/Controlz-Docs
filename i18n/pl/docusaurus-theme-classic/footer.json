@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentacja",
+    "description": "Tytuł kolumny linków w stopce z tytułem=Dokumentacja"
+  },
+  "link.title.Community": {
+    "message": "Społeczność",
+    "description": "Tytuł kolumny linków w stopce z tytułem=Społeczność"
+  },
+  "link.title.More": {
+    "message": "Więcej",
+    "description": "Tytuł kolumny linków w stopce z tytułem=Więcej"
+  },
+  "link.title.Legal": {
+    "message": "Prawne",
+    "description": "Tytuł kolumny linków w stopce z tytułem=Prawne"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentacja",
+    "description": "Etykieta linku w stopce z etykietą=Dokumentacja, prowadzącego do /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Etykieta linku w stopce z etykietą=Telegram, prowadzącego do https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Aktualności",
+    "description": "Etykieta linku w stopce z etykietą=Aktualności, prowadzącego do /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Polityka prywatności",
+    "description": "Etykieta linku w stopce z etykietą=Polityka prywatności, prowadzącego do /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Regulamin",
+    "description": "Etykieta linku w stopce z etykietą=Regulamin, prowadzącego do /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Prawa autorskie w stopce"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Tekst alternatywny logo w stopce"
+  }
+}

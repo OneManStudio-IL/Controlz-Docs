@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "De titel in de navigatiebalk"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "De alt-tekst van het navigatielogo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentatie",
+    "description": "Navigatie-item met label Documentatie"
+  },
+  "item.label.News": {
+    "message": "Nieuws",
+    "description": "Navigatie-item met label Nieuws"
+  }
+}

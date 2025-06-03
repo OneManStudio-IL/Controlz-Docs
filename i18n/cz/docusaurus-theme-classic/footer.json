@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentace",
+    "description": "Název sloupce odkazů v patičce s názvem Dokumentace"
+  },
+  "link.title.Community": {
+    "message": "Komunita",
+    "description": "Název sloupce odkazů v patičce s názvem Komunita"
+  },
+  "link.title.More": {
+    "message": "Více",
+    "description": "Název sloupce odkazů v patičce s názvem Více"
+  },
+  "link.title.Legal": {
+    "message": "Právní informace",
+    "description": "Název sloupce odkazů v patičce s názvem Právní informace"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentace",
+    "description": "Popisek odkazu v patičce s názvem Dokumentace, vedoucí na /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Popisek odkazu v patičce s názvem Telegram, vedoucí na https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Novinky",
+    "description": "Popisek odkazu v patičce s názvem Novinky, vedoucí na /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Zásady ochrany osobních údajů",
+    "description": "Popisek odkazu v patičce s názvem Zásady ochrany osobních údajů, vedoucí na /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Podmínky",
+    "description": "Popisek odkazu v patičce s názvem Podmínky, vedoucí na /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Controlz, Inc.",
+    "description": "Copyright v patičce"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Alternativní text loga v patičce"
+  }
+}

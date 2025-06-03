@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Næste",
+    "description": "Etiket for den aktuelle version"
+  },
+  "sidebar.tutorialSidebar.category.Introducing": {
+    "message": "Introduktion",
+    "description": "Etiket for kategorien Introduktion i sidepanelet tutorialSidebar"
+  }
+}

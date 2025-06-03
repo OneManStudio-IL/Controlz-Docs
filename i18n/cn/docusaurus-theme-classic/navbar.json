@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "导航栏标题"
+  },
+  "logo.alt": {
+    "message": "Controlz 标志",
+    "description": "导航栏标志的替代文本"
+  },
+  "item.label.Documentation": {
+    "message": "文档",
+    "description": "导航栏项，标签为文档"
+  },
+  "item.label.News": {
+    "message": "新闻",
+    "description": "导航栏项，标签为新闻"
+  }
+}

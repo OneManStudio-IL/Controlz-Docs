@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "Názov v navigačnom paneli"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Alternatívny text loga v navigačnom paneli"
+  },
+  "item.label.Documentation": {
+    "message": "Dokumentácia",
+    "description": "Položka navigačného panela s označením Dokumentácia"
+  },
+  "item.label.News": {
+    "message": "Novinky",
+    "description": "Položka navigačného panela s označením Novinky"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Documentație",
+    "description": "Titlul coloanei de linkuri din footer cu titlul=Documentație"
+  },
+  "link.title.Community": {
+    "message": "Comunitate",
+    "description": "Titlul coloanei de linkuri din footer cu titlul=Comunitate"
+  },
+  "link.title.More": {
+    "message": "Mai mult",
+    "description": "Titlul coloanei de linkuri din footer cu titlul=Mai mult"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "Titlul coloanei de linkuri din footer cu titlul=Legal"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentație",
+    "description": "Eticheta linkului din footer cu label=Documentație care leagă către /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Eticheta linkului din footer cu label=Telegram care leagă către https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Știri",
+    "description": "Eticheta linkului din footer cu label=Știri care leagă către /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Politica de confidențialitate",
+    "description": "Eticheta linkului din footer cu label=Politica de confidențialitate care leagă către /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Termeni",
+    "description": "Eticheta linkului din footer cu label=Termeni care leagă către /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Drepturi de autor © 2025 Controlz, Inc.",
+    "description": "Copyright în footer"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Text alternativ pentru logo-ul din footer"
+  }
+}

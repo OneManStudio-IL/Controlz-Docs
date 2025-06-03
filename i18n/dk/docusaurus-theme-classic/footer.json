@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentation",
+    "description": "Titlen på kolonnen med links i sidefoden med titlen Dokumentation"
+  },
+  "link.title.Community": {
+    "message": "Fællesskab",
+    "description": "Titlen på kolonnen med links i sidefoden med titlen Fællesskab"
+  },
+  "link.title.More": {
+    "message": "Mere",
+    "description": "Titlen på kolonnen med links i sidefoden med titlen Mere"
+  },
+  "link.title.Legal": {
+    "message": "Juridisk",
+    "description": "Titlen på kolonnen med links i sidefoden med titlen Juridisk"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentation",
+    "description": "Label for link i sidefod med dokumentation, der linker til /docs/Introducing/AboutApp"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Label for link i sidefod med Telegram, der linker til https://t.me/procontrolzchat"
+  },
+  "link.item.label.News": {
+    "message": "Nyheder",
+    "description": "Label for link i sidefod med nyheder, der linker til /blog"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Privatlivspolitik",
+    "description": "Label for link i sidefod med privatlivspolitik, der linker til /docs/Legal/PrivacyPolicy"
+  },
+  "link.item.label.Terms": {
+    "message": "Betingelser",
+    "description": "Label for link i sidefod med betingelser, der linker til /docs/Legal/Terms"
+  },
+  "copyright": {
+    "message": "Ophavsret © 2025 Controlz, Inc.",
+    "description": "Ophavsret i sidefoden"
+  },
+  "logo.alt": {
+    "message": "Controlz-logo",
+    "description": "Alternativ tekst for logo i sidefod"
+  }
+}

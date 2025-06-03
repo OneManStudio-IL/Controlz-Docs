@@ -63,6 +63,81 @@ function GetStarted() {
   );
 }
 
+export function GooglePlayBadge() {
+  const { i18n } = useDocusaurusContext();
+  let locale = i18n.currentLocale;
+
+  if(i18n.currentLocale === i18n.defaultLocale)
+  {
+    locale = "US"
+  }
+
+  return (
+    <a
+      href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="margin--sm"
+    >
+      <img
+        src={useBaseUrl(`/img/store_badges/google/google_${locale.toUpperCase()}.png`)}
+        alt="Download on the Mac App Store"
+        height="60"
+      />
+    </a>
+  );
+}
+
+export function AppStoreBadge() {
+  const { i18n } = useDocusaurusContext();
+  let locale = i18n.currentLocale;
+
+  if(i18n.currentLocale === i18n.defaultLocale)
+  {
+    locale = "US"
+  }
+
+  return (
+    <a
+      href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="margin--sm"
+    >
+      <img
+        src={useBaseUrl(`/img/store_badges/ios/ios_${locale.toUpperCase()}.svg`)}
+        alt="Download on the App Store"
+        height="60"
+      />
+    </a>
+  );
+}
+
+export function MacAppStoreBadge() {
+  const { i18n } = useDocusaurusContext();
+  let locale = i18n.currentLocale;
+
+  if(i18n.currentLocale === i18n.defaultLocale)
+  {
+    locale = "US"
+  }
+
+  return (
+    <a
+      href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="margin--sm"
+    >
+      <img
+        src={useBaseUrl(`/img/store_badges/mac/mac_${locale.toUpperCase()}.svg`)}
+        alt="Download on the Mac App Store"
+        height="60"
+      />
+    </a>
+  );
+}
+
 function DownloadSection() {
   return (
     <div className="container text--center margin-vert--xl">
@@ -73,29 +148,11 @@ function DownloadSection() {
         <Translate>You can download the app from the official stores:</Translate>
       </p>
       <div className="flex justify-center items-center gap-4 flex-wrap">
-        <a
-          href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="margin--sm"
-        >
-          <img
-            src={useBaseUrl('/img/badge_appstore.svg')}
-            alt="Download on the App Store"
-            height="60"
-          />
-        </a>
-        <a
-          href="https://play.google.com/store/apps/details?id=pro.controlz.il"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={useBaseUrl('/img/badge_google_play.svg')}
-            alt="Get it on Google Play"
-            height="60"
-          />
-        </a>
+        
+        <GooglePlayBadge/>
+        <AppStoreBadge/>
+        <MacAppStoreBadge/>
+
       </div>
     </div>
   );

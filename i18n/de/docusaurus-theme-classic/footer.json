@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentation",
+    "description": "Der Titel der Fußzeilenlink-Spalte mit dem Titel Dokumentation"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "Der Titel der Fußzeilenlink-Spalte mit dem Titel Community"
+  },
+  "link.title.More": {
+    "message": "Mehr",
+    "description": "Der Titel der Fußzeilenlink-Spalte mit dem Titel Mehr"
+  },
+  "link.title.Legal": {
+    "message": "Rechtliches",
+    "description": "Der Titel der Fußzeilenlink-Spalte mit dem Titel Rechtliches"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentation",
+    "description": "Das Label des Fußzeilenlinks mit der Bezeichnung Dokumentation, das zu /docs/Introducing/AboutApp führt"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Das Label des Fußzeilenlinks mit der Bezeichnung Telegram, das zu https://t.me/procontrolzchat führt"
+  },
+  "link.item.label.News": {
+    "message": "Neuigkeiten",
+    "description": "Das Label des Fußzeilenlinks mit der Bezeichnung Neuigkeiten, das zu /blog führt"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Datenschutzrichtlinie",
+    "description": "Das Label des Fußzeilenlinks mit der Bezeichnung Datenschutzrichtlinie, das zu /docs/Legal/PrivacyPolicy führt"
+  },
+  "link.item.label.Terms": {
+    "message": "Nutzungsbedingungen",
+    "description": "Das Label des Fußzeilenlinks mit der Bezeichnung Nutzungsbedingungen, das zu /docs/Legal/Terms führt"
+  },
+  "copyright": {
+    "message": "Urheberrecht © 2025 Controlz, Inc.",
+    "description": "Das Urheberrecht in der Fußzeile"
+  },
+  "logo.alt": {
+    "message": "Controlz-Logo",
+    "description": "Der Alt-Text des Fußzeilenlogos"
+  }
+}

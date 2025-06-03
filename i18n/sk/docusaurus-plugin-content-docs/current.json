@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "Označenie pre aktuálnu verziu"
+  },
+  "sidebar.tutorialSidebar.category.Introducing": {
+    "message": "Úvod",
+    "description": "Označenie kategórie Úvod v bočnom paneli tutorialSidebar"
+  }
+}

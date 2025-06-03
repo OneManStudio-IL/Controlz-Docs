@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Blog",
+    "description": "Název blogu používaný pro SEO"
+  },
+  "description": {
+    "message": "Blog",
+    "description": "Popis blogu používaný pro SEO"
+  },
+  "sidebar.title": {
+    "message": "Nedávné příspěvky",
+    "description": "Popisek pro levý boční panel"
+  }
+}

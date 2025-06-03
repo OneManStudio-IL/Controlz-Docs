@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CONTROLZ",
+    "description": "Titlul din bara de navigare"
+  },
+  "logo.alt": {
+    "message": "Logo Controlz",
+    "description": "Text alternativ pentru logo-ul din bara de navigare"
+  },
+  "item.label.Documentation": {
+    "message": "Documentație",
+    "description": "Element din bara de navigare cu eticheta Documentație"
+  },
+  "item.label.News": {
+    "message": "Știri",
+    "description": "Element din bara de navigare cu eticheta Știri"
+  }
+}
