@@ -13,10 +13,10 @@
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-5"/>
         <updated>2025-05-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-5#description" class="hash-link" aria-label="Direct link to Description" title="Direct link to Description">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-5#description" class="hash-link" aria-label="Description への直接リンク" title="Description への直接リンク">​</a></h3>
 <p>This update enhances the block editing experience, improves performance, and ensures proper functionality on newer Android versions.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-5#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-5#changes" class="hash-link" aria-label="Changes への直接リンク" title="Changes への直接リンク">​</a></h3>
 <ul>
 <li><strong>Fixed a bug with hub scanning on Android 12+</strong> by requesting precise location permission.</li>
 <li><strong>Added option to hide/show the blocks palette</strong> by clicking on the currently selected block collection.</li>
@@ -37,10 +37,10 @@
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-4"/>
         <updated>2025-05-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-4#description" class="hash-link" aria-label="Direct link to Description" title="Direct link to Description">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-4#description" class="hash-link" aria-label="Description への直接リンク" title="Description への直接リンク">​</a></h3>
 <p>This update improves support for tablets, adds useful testing pages, and fixes several compatibility and performance issues.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-4#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-4#changes" class="hash-link" aria-label="Changes への直接リンク" title="Changes への直接リンク">​</a></h3>
 <ul>
 <li><strong>Added tablet layout</strong> for better utilization of larger screens.</li>
 <li><strong>Fixed a bug where the "hub button pressed" block</strong> appeared for hubs that do not support this action. Also fixed inappropriate <strong>color sensor blocks</strong> for unsupported hubs (e.g., BuWizz).</li>
@@ -65,10 +65,10 @@
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-2-3"/>
         <updated>2025-04-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-2-3#description" class="hash-link" aria-label="Direct link to Description" title="Direct link to Description">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-2-3#description" class="hash-link" aria-label="Description への直接リンク" title="Description への直接リンク">​</a></h3>
 <p>This update introduces new joystick customization options, UI improvements, and important stability fixes.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-2-3#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-2-3#changes" class="hash-link" aria-label="Changes への直接リンク" title="Changes への直接リンク">​</a></h3>
 <ul>
 <li><strong>Fixed a bug in the blocks palette collection selector</strong>: selecting a collection, scrolling to another, and returning had no effect.</li>
 <li><strong>Fixed a crash when loading heavy profiles</strong> with a large number of blocks.</li>
@@ -89,10 +89,10 @@
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-1"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-1#description" class="hash-link" aria-label="Direct link to Description" title="Direct link to Description">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-1#description" class="hash-link" aria-label="Description への直接リンク" title="Description への直接リンク">​</a></h3>
 <p>This update includes several important bug fixes that enhance performance, reduce battery consumption, and improve block behavior in the programming environment.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-1#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-release-2025-1-1#changes" class="hash-link" aria-label="Changes への直接リンク" title="Changes への直接リンク">​</a></h3>
 <ul>
 <li><strong>Fixed a bug causing high CPU usage, battery drain, and low performance.</strong></li>
 <li><strong>Fixed a bug where gamepad blocks</strong> (e.g., “is button pressed”, “is D-PAD button pressed”) <strong>couldn’t be attached to other blocks.</strong></li>
@@ -112,7 +112,7 @@
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/jp/blog/closed-test-begin"/>
         <updated>2025-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[🚀 Controlz 2025.1.0 Closed Beta Has Begun!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202510-closed-beta-has-begun">🚀 Controlz 2025.1.0 Closed Beta Has Begun!<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-begin#-controlz-202510-closed-beta-has-begun" class="hash-link" aria-label="Direct link to 🚀 Controlz 2025.1.0 Closed Beta Has Begun!" title="Direct link to 🚀 Controlz 2025.1.0 Closed Beta Has Begun!">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202510-closed-beta-has-begun">🚀 Controlz 2025.1.0 Closed Beta Has Begun!<a href="https://onemanstudio-il.github.io/Controlz-Docs/jp/blog/closed-test-begin#-controlz-202510-closed-beta-has-begun" class="hash-link" aria-label="🚀 Controlz 2025.1.0 Closed Beta Has Begun! への直接リンク" title="🚀 Controlz 2025.1.0 Closed Beta Has Begun! への直接リンク">​</a></h2>
 <p>We're excited to announce that the closed beta test for Controlz 2025 is now live! Selected users can now explore new features, provide feedback, and help shape the future of Controlz.</p>
 <p>If you've received an invitation, check your email for access details.
 Thanks for being part of this important phase!</p>]]></content>
