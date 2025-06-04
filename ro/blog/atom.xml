@@ -8,21 +8,25 @@
     <subtitle>Controlz home Blog</subtitle>
     <icon>https://OneManStudio-IL.github.io/Controlz-Docs/ro/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Release Controlz 2025.1.5]]></title>
-        <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-5</id>
-        <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-5"/>
+        <title type="html"><![CDATA[Lansare Controlz 2025.1.4]]></title>
+        <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4</id>
+        <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4"/>
         <updated>2025-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-5#description" class="hash-link" aria-label="Link direct către Description" title="Link direct către Description">​</a></h3>
-<p>This update enhances the block editing experience, improves performance, and ensures proper functionality on newer Android versions.</p>
+        <summary type="html"><![CDATA[Descriere]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descriere">Descriere<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#descriere" class="hash-link" aria-label="Link direct către Descriere" title="Link direct către Descriere">​</a></h3>
+<p>Această actualizare îmbunătățește suportul pentru tablete, adaugă pagini utile de testare și remediază mai multe probleme de compatibilitate și performanță.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-5#changes" class="hash-link" aria-label="Link direct către Changes" title="Link direct către Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="modificări">Modificări<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#modific%C4%83ri" class="hash-link" aria-label="Link direct către Modificări" title="Link direct către Modificări">​</a></h3>
 <ul>
-<li><strong>Fixed a bug with hub scanning on Android 12+</strong> by requesting precise location permission.</li>
-<li><strong>Added option to hide/show the blocks palette</strong> by clicking on the currently selected block collection.</li>
-<li><strong>Added a resize handle</strong> to the blocks palette to allow <strong>manual resizing</strong>.</li>
-<li><strong>Fixed high CPU usage</strong> when a profile was loaded but the program wasn’t running.</li>
-<li><strong>Improved the "String list" block editor</strong> to avoid content being cut off. Now items are split into columns for better visibility with large lists.</li>
+<li><strong>Adăugat layout pentru tablete</strong> pentru o utilizare mai eficientă a ecranelor mari.</li>
+<li><strong>Remediată o eroare în care blocul „buton hub apăsat”</strong> apărea pentru hub-uri care nu acceptă această acțiune. De asemenea, au fost corectate <strong>blocurile de senzor de culoare</strong> afișate incorect pentru hub-uri nesuportate (ex: BuWizz).</li>
+<li><strong>Remediată o eroare în care blocul „pornire motor”</strong> nu funcționa cu motoarele fără encodere, din cauza lipsei comenzilor alternative de rulare.</li>
+<li><strong>Adăugată o pagină pentru testarea butoanelor de gamepad.</strong></li>
+<li><strong>Adăugată o pagină de testare a hub-urilor</strong>, cu un panou care afișează informații, dispozitive conectate la porturi și starea de „shake” a porturilor.</li>
+<li><strong>Corectată interpretarea incorectă a datelor de accelerometru</strong> pentru BuWizz 2 și 3, care ducea la erori în citirea orientării.</li>
+<li><strong>Corectate scurgeri de memorie RAM</strong> care duceau la închiderea aplicației pe unele dispozitive, din cauza utilizării excesive a memoriei.</li>
+<li><strong>Remediate erori la încărcarea profilelor</strong>, care anterior puteau cauza prăbușirea aplicației în anumite scenarii.</li>
+<li><strong>Remediată o eroare pe Android</strong> în care eliberarea stick-urilor gamepad-ului nu reseta valorile axelor la zero.</li>
 </ul>]]></content>
         <author>
             <name>Maxim</name>
@@ -32,25 +36,25 @@
         <category label="Test" term="Test"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release Controlz 2025.1.4]]></title>
+        <title type="html"><![CDATA[Lansare Controlz 2025.1.4]]></title>
         <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4</id>
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4"/>
         <updated>2025-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#description" class="hash-link" aria-label="Link direct către Description" title="Link direct către Description">​</a></h3>
-<p>This update improves support for tablets, adds useful testing pages, and fixes several compatibility and performance issues.</p>
+        <summary type="html"><![CDATA[Descriere]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descriere">Descriere<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#descriere" class="hash-link" aria-label="Link direct către Descriere" title="Link direct către Descriere">​</a></h3>
+<p>Această actualizare îmbunătățește suportul pentru tablete, adaugă pagini utile de testare și remediază mai multe probleme de compatibilitate și performanță.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#changes" class="hash-link" aria-label="Link direct către Changes" title="Link direct către Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="modificări">Modificări<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-4#modific%C4%83ri" class="hash-link" aria-label="Link direct către Modificări" title="Link direct către Modificări">​</a></h3>
 <ul>
-<li><strong>Added tablet layout</strong> for better utilization of larger screens.</li>
-<li><strong>Fixed a bug where the "hub button pressed" block</strong> appeared for hubs that do not support this action. Also fixed inappropriate <strong>color sensor blocks</strong> for unsupported hubs (e.g., BuWizz).</li>
-<li><strong>Fixed a bug where the "motor run" block</strong> didn’t affect motors without encoders due to missing alternate run commands.</li>
-<li><strong>Added a page for testing gamepad buttons.</strong></li>
-<li><strong>Added a hub testing page</strong> with a dashboard showing information, connected port devices, and port shake status.</li>
-<li><strong>Fixed incorrect accelerometer data interpretation</strong> for BuWizz 2 and 3, which caused faulty orientation readings.</li>
-<li><strong>Fixed RAM memory leaks</strong> that led to app termination on some devices due to high system memory usage.</li>
-<li><strong>Fixed bugs in profile loading</strong> that previously caused crashes in certain scenarios.</li>
-<li><strong>Fixed an Android bug</strong> where releasing gamepad sticks did not reset axis values to zero.</li>
+<li><strong>Adăugat layout pentru tablete</strong> pentru o utilizare mai eficientă a ecranelor mari.</li>
+<li><strong>Remediată o eroare în care blocul „buton hub apăsat”</strong> apărea pentru hub-uri care nu acceptă această acțiune. De asemenea, au fost corectate <strong>blocurile de senzor de culoare</strong> afișate incorect pentru hub-uri nesuportate (ex: BuWizz).</li>
+<li><strong>Remediată o eroare în care blocul „pornire motor”</strong> nu funcționa cu motoarele fără encodere, din cauza lipsei comenzilor alternative de rulare.</li>
+<li><strong>Adăugată o pagină pentru testarea butoanelor de gamepad.</strong></li>
+<li><strong>Adăugată o pagină de testare a hub-urilor</strong>, cu un panou care afișează informații, dispozitive conectate la porturi și starea de „shake” a porturilor.</li>
+<li><strong>Corectată interpretarea incorectă a datelor de accelerometru</strong> pentru BuWizz 2 și 3, care ducea la erori în citirea orientării.</li>
+<li><strong>Corectate scurgeri de memorie RAM</strong> care duceau la închiderea aplicației pe unele dispozitive, din cauza utilizării excesive a memoriei.</li>
+<li><strong>Remediate erori la încărcarea profilelor</strong>, care anterior puteau cauza prăbușirea aplicației în anumite scenarii.</li>
+<li><strong>Remediată o eroare pe Android</strong> în care eliberarea stick-urilor gamepad-ului nu reseta valorile axelor la zero.</li>
 </ul>]]></content>
         <author>
             <name>Maxim</name>
@@ -60,21 +64,21 @@
         <category label="Test" term="Test"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release Controlz 2025.1.2 - 2025.1.3]]></title>
+        <title type="html"><![CDATA[Lansare Controlz 2025.1.2 - 2025.1.3]]></title>
         <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3</id>
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3"/>
         <updated>2025-04-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3#description" class="hash-link" aria-label="Link direct către Description" title="Link direct către Description">​</a></h3>
-<p>This update introduces new joystick customization options, UI improvements, and important stability fixes.</p>
+        <summary type="html"><![CDATA[Descriere]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descriere">Descriere<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3#descriere" class="hash-link" aria-label="Link direct către Descriere" title="Link direct către Descriere">​</a></h3>
+<p>Această actualizare introduce noi opțiuni de personalizare pentru joystick, îmbunătățiri ale interfeței și corecturi importante pentru stabilitate.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3#changes" class="hash-link" aria-label="Link direct către Changes" title="Link direct către Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="modificări">Modificări<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-2-3#modific%C4%83ri" class="hash-link" aria-label="Link direct către Modificări" title="Link direct către Modificări">​</a></h3>
 <ul>
-<li><strong>Fixed a bug in the blocks palette collection selector</strong>: selecting a collection, scrolling to another, and returning had no effect.</li>
-<li><strong>Fixed a crash when loading heavy profiles</strong> with a large number of blocks.</li>
-<li><strong>Added “Axes type” property</strong> to joystick settings to support <strong>single-axis mode</strong> (X, Y, XY).</li>
-<li><strong>Added colorization</strong> for steering wheel controllers (“GMZ”, “No Mercy”).</li>
-<li><strong>Added “is pressed” blocks</strong> for steering wheels and pedals.</li>
+<li><strong>Corectată o eroare în selectorul de colecții din paleta de blocuri</strong>: selectarea unei colecții, derularea către alta și revenirea nu aveau niciun efect.</li>
+<li><strong>Corectată o prăbușire la încărcarea profilelor complexe</strong>, care conțineau un număr mare de blocuri.</li>
+<li><strong>Adăugată proprietatea „Tip axe”</strong> în setările joystick-ului pentru a suporta <strong>modul pe o singură axă</strong> (X, Y, XY).</li>
+<li><strong>Adăugată colorizare</strong> pentru controllerele tip volan („GMZ”, „No Mercy”).</li>
+<li><strong>Adăugați blocuri de tip „este apăsat”</strong> pentru volane și pedale.</li>
 </ul>]]></content>
         <author>
             <name>Maxim</name>
@@ -84,20 +88,20 @@
         <category label="Test" term="Test"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release Controlz 2025.1.1]]></title>
+        <title type="html"><![CDATA[Lansare Controlz 2025.1.1]]></title>
         <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1</id>
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Description]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1#description" class="hash-link" aria-label="Link direct către Description" title="Link direct către Description">​</a></h3>
-<p>This update includes several important bug fixes that enhance performance, reduce battery consumption, and improve block behavior in the programming environment.</p>
+        <summary type="html"><![CDATA[Descriere]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descriere">Descriere<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1#descriere" class="hash-link" aria-label="Link direct către Descriere" title="Link direct către Descriere">​</a></h3>
+<p>Această actualizare include mai multe corecturi importante de erori care îmbunătățesc performanța, reduc consumul bateriei și optimizează comportamentul blocurilor în mediul de programare.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1#changes" class="hash-link" aria-label="Link direct către Changes" title="Link direct către Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="modificări">Modificări<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-release-2025-1-1#modific%C4%83ri" class="hash-link" aria-label="Link direct către Modificări" title="Link direct către Modificări">​</a></h3>
 <ul>
-<li><strong>Fixed a bug causing high CPU usage, battery drain, and low performance.</strong></li>
-<li><strong>Fixed a bug where gamepad blocks</strong> (e.g., “is button pressed”, “is D-PAD button pressed”) <strong>couldn’t be attached to other blocks.</strong></li>
-<li><strong>Fixed an issue in the step switch event block</strong> that incorrectly handled touch events and step counting.</li>
-<li><strong>Fixed a bug in the list block’s “item of”</strong> where no more than one block could be attached as an argument index.</li>
+<li><strong>Corectată o eroare care cauza utilizare ridicată a CPU-ului, descărcare rapidă a bateriei și performanță scăzută.</strong></li>
+<li><strong>Corectată o eroare în blocurile pentru gamepad</strong> (de ex., „este butonul apăsat”, „este apăsat butonul D-PAD”) <strong>care împiedica atașarea acestora la alte blocuri.</strong></li>
+<li><strong>Corectată o problemă în blocul de eveniment „comutator cu pași”</strong> care gestiona incorect evenimentele tactile și numărarea pașilor.</li>
+<li><strong>Corectată o eroare în blocul de listă „element din”</strong> care permitea atașarea unui singur bloc ca index de argument.</li>
 </ul>]]></content>
         <author>
             <name>Maxim</name>
@@ -111,11 +115,11 @@
         <id>https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-begin</id>
         <link href="https://OneManStudio-IL.github.io/Controlz-Docs/ro/blog/closed-test-begin"/>
         <updated>2025-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🚀 Controlz 2025.1.0 Closed Beta Has Begun!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202510-closed-beta-has-begun">🚀 Controlz 2025.1.0 Closed Beta Has Begun!<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-begin#-controlz-202510-closed-beta-has-begun" class="hash-link" aria-label="Link direct către 🚀 Controlz 2025.1.0 Closed Beta Has Begun!" title="Link direct către 🚀 Controlz 2025.1.0 Closed Beta Has Begun!">​</a></h2>
-<p>We're excited to announce that the closed beta test for Controlz 2025 is now live! Selected users can now explore new features, provide feedback, and help shape the future of Controlz.</p>
-<p>If you've received an invitation, check your email for access details.
-Thanks for being part of this important phase!</p>]]></content>
+        <summary type="html"><![CDATA[🚀 Controlz 2025.1.0 Test Beta Închis a Început!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202510-test-beta-închis-a-început">🚀 Controlz 2025.1.0 Test Beta Închis a Început!<a href="https://onemanstudio-il.github.io/Controlz-Docs/ro/blog/closed-test-begin#-controlz-202510-test-beta-%C3%AEnchis-a-%C3%AEnceput" class="hash-link" aria-label="Link direct către 🚀 Controlz 2025.1.0 Test Beta Închis a Început!" title="Link direct către 🚀 Controlz 2025.1.0 Test Beta Închis a Început!">​</a></h2>
+<p>Suntem încântați să anunțăm că testul beta închis pentru Controlz 2025 este acum activ! Utilizatorii selectați pot explora noile funcționalități, pot oferi feedback și pot contribui la modelarea viitorului aplicației Controlz.</p>
+<p>Dacă ai primit o invitație, verifică-ți emailul pentru detaliile de acces.<br>
+<!-- -->Îți mulțumim că faci parte din această etapă importantă!</p>]]></content>
         <author>
             <name>Maxim</name>
             <uri>https://github.com/llOzzeell</uri>
