@@ -1,6 +1,6 @@
 ---
 id: PrivacyPolicy
-title: Privacy policy
+title: Политика конфиденциальности
 ---
 
 # Политика конфиденциальности

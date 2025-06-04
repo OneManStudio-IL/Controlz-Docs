@@ -1,6 +1,6 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Пользовательское соглашение
 ---
 
 # Пользовательское Соглашение
