@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Warunki i zasady
 ---
 
-# User Agreement
+# Umowa użytkownika
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Niniejsza Umowa użytkownika (dalej zwana Umową) reguluje relacje między właścicielem (dalej zwanym Administracją) a użytkownikiem strony internetowej.
 
-The website is not a mass media outlet.
+Strona internetowa nie jest medium masowym.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Korzystając ze strony, wyrażasz zgodę na warunki niniejszej Umowy.  
+Jeśli nie zgadzasz się z warunkami niniejszej Umowy, nie korzystaj ze strony!
 
-## Rights and Obligations of the Parties
+## Prawa i obowiązki stron
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Prawa użytkownika:
+- Przeszukiwanie informacji na stronie  
+- Otrzymywanie informacji ze strony  
+- Korzystanie z informacji na stronie do celów osobistych, niekomercyjnych  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Prawa administracji:
+- Według własnego uznania tworzyć, zmieniać lub uchylać zasady  
+- Ograniczać dostęp do dowolnych informacji na stronie  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Obowiązki użytkownika:
+- Nie zakłócać funkcjonowania strony  
+- Nie używać skryptów (programów) do automatycznego zbierania danych i/lub interakcji ze stroną i jej usługami  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Obowiązki administracji:
+- Utrzymywać funkcjonalność strony, z wyjątkiem przypadków, gdy jest to niemożliwe z przyczyn niezależnych od administracji  
 
-## Liability of the Parties
+## Odpowiedzialność stron
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- Administracja nie ponosi odpowiedzialności za usługi świadczone przez osoby trzecie  
+- W przypadku siły wyższej (wojna, sytuacje awaryjne, klęski żywiołowe itp.) administracja nie gwarantuje zachowania informacji przesłanych przez użytkowników ani nieprzerwanej pracy zasobu informacyjnego  
 
-## Agreement Validity
+## Ważność umowy
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Niniejsza Umowa wchodzi w życie w momencie korzystania z tej strony.  
+Umowa traci ważność w momencie wydania nowej wersji.  
+Administracja zastrzega sobie prawo do jednostronnej zmiany niniejszej Umowy według własnego uznania.  
+Administracja nie powiadamia użytkowników o zmianach w Umowie.

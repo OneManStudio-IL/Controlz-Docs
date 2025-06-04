@@ -1,4 +1,4 @@
 ---
 id: QuickStart
-title: Quick start tutorial
+title: Szybki start — samouczek
 ---

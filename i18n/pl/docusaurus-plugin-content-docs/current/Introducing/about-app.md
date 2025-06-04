@@ -1,46 +1,46 @@
 ---
 id: AboutApp
-title: About Controlz
+title: O Controlz
 ---
 
-# Controlz – Elevate Your LEGO® Creations
+# Controlz – Ulepsz swoje kreacje LEGO®
 
-**Controlz** is a powerful mobile application designed to enhance your building and control experience.  
-It allows enthusiasts to remotely control their models, mechanisms, and robots using smartphones, tablets, or even gamepads.  
-With a wide range of supported hubs and motors, **Controlz** provides a seamless and customizable interface for users to interact with their creations.
-
----
-
-## 🎮 Intuitive Control Interfaces
-
-- **Customizable Profiles**: Create tailored control profiles for your MOC (My Own Creation) models directly on your smartphone.
-- **Gamepad Integration**: Enhance your control experience by connecting physical gamepads, providing a more immersive interaction with your models.
+**Controlz** to potężna aplikacja mobilna stworzona, by wzbogacić Twoje doświadczenia w budowaniu i sterowaniu.  
+Pozwala entuzjastom zdalnie kontrolować swoje modele, mechanizmy i roboty za pomocą smartfonów, tabletów, a nawet padów do gier.  
+Dzięki szerokiemu wsparciu różnych hubów i silników, **Controlz** oferuje płynny i konfigurowalny interfejs do interakcji z Twoimi konstrukcjami.
 
 ---
 
-## 🧱 Visual Programming with Scratch-Based Interface
+## 🎮 Intuicyjne interfejsy sterowania
 
-Controlz incorporates a Scratch-based visual programming language, enabling users to:
-
-- Design both simple and complex programs for LEGO® models, mechanisms, and robots.
-- Utilize an intuitive drag-and-drop interface, making it accessible for users of all ages and skill levels.
-- Create sophisticated behaviors, such as automation sequences, movement patterns, and sensor-based responses, without traditional coding.
+- **Personalizowane profile**: Twórz dopasowane profile sterowania dla swoich modeli MOC (My Own Creation) bezpośrednio na smartfonie.
+- **Integracja z gamepadami**: Ulepsz swoje sterowanie, podłączając fizyczne pady do gier, co zapewnia bardziej immersyjne doświadczenie.
 
 ---
 
-## 🌟 Key Features
+## 🧱 Programowanie wizualne w oparciu o Scratch
 
-- **Multi-Hub Support**: Connect and control multiple hubs simultaneously, expanding the possibilities of your creations.
-- **User Profiles**: Sign in to create personalized profiles, provide feedback, and connect with the community.
-- **Real-Time Feedback**: Monitor motor outputs and sensor data in real-time, allowing for precise adjustments and optimizations.
-- **Offline Functionality**: Design and test your programs without the need for an active internet connection.
+Controlz wykorzystuje wizualny język programowania oparty na Scratch, umożliwiając użytkownikom:
 
----
-
-## 📱 Availability
-
-Controlz is free to download and is available on both Android and Apple devices
+- Projektowanie prostych i zaawansowanych programów dla modeli LEGO®, mechanizmów i robotów.
+- Korzystanie z intuicyjnego interfejsu „przeciągnij i upuść”, co czyni aplikację dostępną dla użytkowników w każdym wieku i na każdym poziomie zaawansowania.
+- Tworzenie zaawansowanych zachowań, takich jak sekwencje automatyzacji, wzorce ruchu czy reakcje oparte na czujnikach – bez tradycyjnego kodowania.
 
 ---
 
-Empower your LEGO® creations with **Controlz**, bringing them to life through advanced control features, intuitive navigation, and flexible configuration options.
+## 🌟 Najważniejsze funkcje
+
+- **Wsparcie wielu hubów**: Podłącz i steruj wieloma hubami jednocześnie, rozszerzając możliwości swoich konstrukcji.
+- **Profile użytkowników**: Zaloguj się, aby tworzyć spersonalizowane profile, przekazywać opinie i łączyć się ze społecznością.
+- **Informacje zwrotne w czasie rzeczywistym**: Monitoruj dane silników i czujników na żywo, co pozwala na precyzyjne dostosowania i optymalizacje.
+- **Funkcjonalność offline**: Projektuj i testuj swoje programy bez potrzeby aktywnego połączenia z internetem.
+
+---
+
+## 📱 Dostępność
+
+Controlz jest darmowa do pobrania i dostępna na urządzenia z systemami Android oraz Apple.
+
+---
+
+Wznieś swoje kreacje LEGO® na wyższy poziom dzięki **Controlz**, która ożywia je dzięki zaawansowanym funkcjom sterowania, intuicyjnej nawigacji i elastycznym opcjom konfiguracji.

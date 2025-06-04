@@ -1,25 +1,25 @@
 ---
 id: SupportedDevices
-title: Supported hubs, motors, and sensors
+title: Obsługiwane koncentratory, silniki i czujniki
 ---
 
 import { SupportedHubsTable, SupportedMotorsTable, SupportedSensorsTable } from '@site/src/components/SupportedDevices';
 
-# ⚙️ Supported Devices
+# ⚙️ Obsługiwane urządzenia
 
-Here is a quick overview of the hubs, motors, and sensors supported by **Controlz**.
+Poniżej znajduje się szybki przegląd koncentratorów, silników i czujników obsługiwanych przez **Controlz**.
 
 <details>
-<summary>Hubs</summary>
+<summary>Koncentratory</summary>
 <SupportedHubsTable />
 </details>
 
 <details>
-<summary>Motors</summary>
+<summary>Silniki</summary>
 <SupportedMotorsTable />
 </details>
 
 <details>
-<summary>Sensors</summary>
+<summary>Czujniki</summary>
 <SupportedSensorsTable />
 </details>
