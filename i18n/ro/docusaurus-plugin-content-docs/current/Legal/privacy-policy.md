@@ -1,62 +1,62 @@
 ---
 id: PrivacyPolicy
-title: Privacy Policy
+title: Politica de confidențialitate
 ---
 
-# Privacy Policy
+# Politica de confidențialitate
 
-Maksim Nemna created the Controlz application as a commercial application. 
-This SERVICE is provided by Maksim Nemna and is intended for use as is.
+Maksim Nemna a creat aplicația Controlz ca o aplicație comercială.  
+Acest SERVICIU este oferit de Maksim Nemna și este destinat utilizării ca atare.
 
-This page is used to inform visitors about my policies regarding the collection, use, and disclosure of Personal Information if someone decides to use my Service.
+Această pagină este folosită pentru a informa vizitatorii despre politicile mele privind colectarea, utilizarea și divulgarea Informațiilor Personale în cazul în care cineva decide să utilizeze Serviciul meu.
 
-If you choose to use my Service, you agree to the collection and use of information in accordance with this policy. The Personal Information that I collect is used to provide and improve the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Dacă alegeți să folosiți Serviciul meu, sunteți de acord cu colectarea și utilizarea informațiilor în conformitate cu această politică. Informațiile personale pe care le colectez sunt folosite pentru a furniza și îmbunătăți Serviciul. Nu voi folosi sau împărtăși informațiile dumneavoastră cu nimeni, cu excepția cazurilor descrise în această Politică de confidențialitate.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are available on Controlz, unless otherwise defined in this Privacy Policy.
+Termenii utilizați în această Politică de confidențialitate au aceleași sensuri ca și în Termenii și Condițiile noastre, care sunt disponibile pe Controlz, cu excepția cazurilor în care sunt definiți altfel în această Politică.
 
-## Information Collection and Use
+## Colectarea și utilizarea informațiilor
 
-For a better experience while using our Service, I may require you to provide certain personally identifiable information. The information I request will be stored on your device and will not be collected by me in any way.
+Pentru o experiență mai bună în utilizarea Serviciului nostru, este posibil să vă solicit să furnizați anumite informații personale identificabile. Informațiile pe care le solicit vor fi stocate pe dispozitivul dumneavoastră și nu vor fi colectate de către mine în niciun fel.
 
-## Log Data
+## Date de jurnal (Log Data)
 
-I want to inform you that whenever you use my Service, in case of an application error, I collect data and information (through third-party products) on your phone called "Log Data." This Log Data may include information such as your device’s Internet Protocol ("IP") address, device name, operating system version, application configuration when using my Service, the time and date of your use of the Service, and other statistics.
+Vreau să vă informez că ori de câte ori utilizați Serviciul meu, în cazul unei erori a aplicației, colectez date și informații (prin produse terțe) de pe telefonul dumneavoastră denumite „Date de jurnal”. Aceste Date de jurnal pot include informații precum adresa Protocolului de Internet ("IP") a dispozitivului dumneavoastră, numele dispozitivului, versiunea sistemului de operare, configurația aplicației în momentul utilizării Serviciului, data și ora utilizării Serviciului și alte statistici.
 
 ## Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in your device’s internal memory.
+Cookie-urile sunt fișiere cu o cantitate mică de date, folosite în mod obișnuit ca identificatori unici anonimi. Ele sunt trimise către browserul dumneavoastră de pe site-urile pe care le vizitați și sunt stocate în memoria internă a dispozitivului.
 
-This Service does not explicitly use these "cookies." However, the app may use third-party code and libraries that use cookies to collect information and improve their services. You have the option to accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some parts of this Service.
+Acest Serviciu nu utilizează în mod explicit aceste „cookies”. Cu toate acestea, aplicația poate utiliza cod și biblioteci terțe care folosesc cookies pentru a colecta informații și a-și îmbunătăți serviciile. Aveți opțiunea de a accepta sau refuza aceste cookies și de a fi informat când un cookie este trimis către dispozitivul dumneavoastră. Dacă alegeți să refuzați cookie-urile noastre, este posibil să nu puteți utiliza unele părți ale acestui Serviciu.
 
-## Service Providers
+## Furnizori de servicii
 
-I may employ third-party companies and individuals for the following reasons:
+Este posibil să angajez companii și persoane terțe pentru următoarele motive:
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+- Pentru a facilita Serviciul nostru;  
+- Pentru a furniza Serviciul în numele nostru;  
+- Pentru a efectua servicii legate de Serviciu; sau  
+- Pentru a ne ajuta să analizăm modul în care este utilizat Serviciul.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Vreau să informez utilizatorii acestui Serviciu că aceste terțe părți au acces la informațiile dumneavoastră personale. Motivul este de a efectua sarcinile care le-au fost atribuite în numele nostru. Cu toate acestea, acestea sunt obligate să nu dezvăluie sau să folosească informațiile în alte scopuri.
 
-## Security
+## Securitate
 
-I value your trust in providing us with your Personal Information, so we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Apreciez încrederea dumneavoastră în a ne oferi informațiile personale, așa că ne străduim să folosim mijloace comercial acceptabile pentru a le proteja. Dar rețineți că nici o metodă de transmisie pe Internet sau metodă de stocare electronică nu este 100% sigură și fiabilă, iar eu nu pot garanta securitatea absolută.
 
-## Links to Other Sites
+## Link-uri către alte site-uri
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Acest Serviciu poate conține link-uri către alte site-uri. Dacă faceți clic pe un link terț, veți fi direcționat către acel site. Rețineți că aceste site-uri externe nu sunt operate de mine. Prin urmare, vă sfătuiesc să revizuiți politica de confidențialitate a acestor site-uri. Nu am control și nu îmi asum responsabilitatea pentru conținutul, politicile de confidențialitate sau practicile oricăror site-uri sau servicii terțe.
 
-## Children's Privacy
+## Confidențialitatea copiilor
 
-These Services are not intended for anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. If I discover that a child under 13 has provided me with personal information, I immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I can take the necessary actions.
+Aceste Servicii nu sunt destinate persoanelor sub vârsta de 13 ani. Nu colectez în mod conștient informații personale identificabile de la copii sub 13 ani. Dacă descopăr că un copil sub 13 ani mi-a furnizat informații personale, le șterg imediat de pe serverele noastre. Dacă sunteți părinte sau tutore și sunteți conștient că copilul dumneavoastră ne-a oferit informații personale, vă rog să mă contactați pentru a putea lua măsurile necesare.
 
-## Changes to This Privacy Policy
+## Modificări ale acestei Politici de confidențialitate
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Este posibil să actualizez Politica de confidențialitate din când în când. Prin urmare, vă recomand să consultați periodic această pagină pentru orice modificări. Vă voi notifica despre orice modificare prin publicarea noii Politici de confidențialitate pe această pagină.
 
-## Contact Us
+## Contact
 
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at [developer@controlz.pro](mailto:developer@controlz.pro).
+Dacă aveți întrebări sau sugestii legate de Politica mea de confidențialitate, nu ezitați să mă contactați la [developer@controlz.pro](mailto:developer@controlz.pro).
 
-This policy is effective as of September 11, 2021.
+Această politică este valabilă începând cu 11 septembrie 2021.

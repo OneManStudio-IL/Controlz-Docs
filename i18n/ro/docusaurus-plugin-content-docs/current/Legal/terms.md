@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Termeni și condiții
 ---
 
-# User Agreement
+# Acordul Utilizatorului
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Acest Acord al Utilizatorului (denumit în continuare „Acordul”) reglementează relația dintre proprietar (denumit în continuare Administrație) și utilizatorul site-ului.
 
-The website is not a mass media outlet.
+Site-ul nu este o publicație de mass-media.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Prin utilizarea site-ului, sunteți de acord cu termenii acestui Acord.  
+Dacă nu sunteți de acord cu termenii acestui Acord, vă rugăm să nu folosiți site-ul!
 
-## Rights and Obligations of the Parties
+## Drepturile și obligațiile părților
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Drepturile utilizatorului:
+- Căutarea informațiilor pe site  
+- Primirea informațiilor de pe site  
+- Utilizarea informațiilor de pe site în scopuri personale și non-comerciale  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Drepturile Administrației:
+- La discreția sa, să creeze, modifice sau să revoce reguli  
+- Să restricționeze accesul la orice informație de pe site  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Obligațiile utilizatorului:
+- Să nu afecteze funcționarea site-ului  
+- Să nu utilizeze scripturi (programe) pentru colectarea automată a datelor și/sau interacțiunea cu site-ul și serviciile acestuia  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Obligațiile Administrației:
+- Să mențină funcționalitatea site-ului, cu excepția cazurilor în care acest lucru este imposibil din motive ce țin de forța majoră  
 
-## Liability of the Parties
+## Răspunderea părților
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- Administrația nu este responsabilă pentru serviciile oferite de terți  
+- În cazul forței majore (război, situații de urgență, dezastre naturale etc.), Administrația nu garantează păstrarea informațiilor postate de utilizatori sau funcționarea neîntreruptă a resursei informaționale  
 
-## Agreement Validity
+## Valabilitatea Acordului
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Acest Acord intră în vigoare de îndată ce site-ul este utilizat.  
+Acordul încetează să mai fie valabil la lansarea unei versiuni noi.  
+Administrația își rezervă dreptul de a modifica unilateral acest Acord după bunul său plac.  
+Administrația nu notifică utilizatorii cu privire la modificările Acordului.
