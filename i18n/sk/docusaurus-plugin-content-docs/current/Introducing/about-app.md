@@ -3,44 +3,44 @@ id: AboutApp
 title: About Controlz
 ---
 
-# Controlz – Elevate Your LEGO® Creations
+# Controlz – Nosta LEGO®-luomuksesi uudelle tasolle
 
-**Controlz** is a powerful mobile application designed to enhance your building and control experience.  
-It allows enthusiasts to remotely control their models, mechanisms, and robots using smartphones, tablets, or even gamepads.  
-With a wide range of supported hubs and motors, **Controlz** provides a seamless and customizable interface for users to interact with their creations.
-
----
-
-## 🎮 Intuitive Control Interfaces
-
-- **Customizable Profiles**: Create tailored control profiles for your MOC (My Own Creation) models directly on your smartphone.
-- **Gamepad Integration**: Enhance your control experience by connecting physical gamepads, providing a more immersive interaction with your models.
+**Controlz** on tehokas mobiilisovellus, joka parantaa rakentamisen ja ohjauksen kokemusta.  
+Sen avulla harrastajat voivat ohjata mallejaan, mekanismejaan ja robottejaan etänä älypuhelimilla, tableteilla tai jopa peliohjaimilla.  
+Laajan tuettujen hubien ja moottorien valikoiman ansiosta **Controlz** tarjoaa saumattoman ja mukautettavan käyttöliittymän, jolla käyttäjät voivat hallita luomuksiaan.
 
 ---
 
-## 🧱 Visual Programming with Scratch-Based Interface
+## 🎮 Intuitiiviset ohjausrajapinnat
 
-Controlz incorporates a Scratch-based visual programming language, enabling users to:
-
-- Design both simple and complex programs for LEGO® models, mechanisms, and robots.
-- Utilize an intuitive drag-and-drop interface, making it accessible for users of all ages and skill levels.
-- Create sophisticated behaviors, such as automation sequences, movement patterns, and sensor-based responses, without traditional coding.
+- **Mukautettavat profiilit**: Luo räätälöityjä ohjausprofiileja MOC-malleillesi (My Own Creation) suoraan älypuhelimellasi.
+- **Peliohjainintegraatio**: Paranna ohjauskokemusta yhdistämällä fyysisiä peliohjaimia, mikä tarjoaa immersiivisemmän vuorovaikutuksen malleihisi.
 
 ---
 
-## 🌟 Key Features
+## 🧱 Visuaalinen ohjelmointi Scratch-pohjaisella käyttöliittymällä
 
-- **Multi-Hub Support**: Connect and control multiple hubs simultaneously, expanding the possibilities of your creations.
-- **User Profiles**: Sign in to create personalized profiles, provide feedback, and connect with the community.
-- **Real-Time Feedback**: Monitor motor outputs and sensor data in real-time, allowing for precise adjustments and optimizations.
-- **Offline Functionality**: Design and test your programs without the need for an active internet connection.
+Controlz sisältää Scratch-pohjaisen visuaalisen ohjelmointikielen, jonka avulla käyttäjät voivat:
 
----
-
-## 📱 Availability
-
-Controlz is free to download and is available on both Android and Apple devices
+- Suunnitella yksinkertaisia ja monimutkaisia ohjelmia LEGO®-malleille, mekanismeille ja roboteille.
+- Käyttää intuitiivista drag-and-drop -käyttöliittymää, joka tekee ohjelmoinnista saavutettavaa kaikenikäisille ja -tasoisille käyttäjille.
+- Luoda kehittyneitä toimintoja, kuten automaatiosarjoja, liikkumismalleja ja sensoripohjaisia vasteita ilman perinteistä koodausta.
 
 ---
 
-Empower your LEGO® creations with **Controlz**, bringing them to life through advanced control features, intuitive navigation, and flexible configuration options.
+## 🌟 Keskeiset ominaisuudet
+
+- **Monihubi-tuki**: Yhdistä ja ohjaa useita hubia samanaikaisesti laajentaaksesi luomustesi mahdollisuuksia.
+- **Käyttäjäprofiilit**: Kirjaudu sisään luodaksesi henkilökohtaisia profiileja, antaaksesi palautetta ja yhdistyäksesi yhteisöön.
+- **Reaaliaikainen palaute**: Seuraa moottorien lähtöjä ja anturidataa reaaliajassa, mikä mahdollistaa tarkat säädöt ja optimoinnit.
+- **Offline-toiminnallisuus**: Suunnittele ja testaa ohjelmasi ilman aktiivista internet-yhteyttä.
+
+---
+
+## 📱 Saatavuus
+
+Controlz on ladattavissa ilmaiseksi ja saatavilla sekä Android- että Apple-laitteille.
+
+---
+
+Anna LEGO®-luomuksillesi voimaa **Controlz**-sovelluksella, joka herättää ne eloon kehittyneiden ohjausominaisuuksien, intuitiivisen navigoinnin ja joustavien asetusten avulla.

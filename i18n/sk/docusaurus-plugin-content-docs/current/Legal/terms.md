@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Podmienky používania
 ---
 
-# User Agreement
+# Používateľská zmluva
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Táto používateľská zmluva (ďalej len „Zmluva“) upravuje vzťah medzi vlastníkom (ďalej len „Správa“) a používateľom webovej stránky.
 
-The website is not a mass media outlet.
+Webová stránka nie je prostriedkom masovej komunikácie.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Používaním webovej stránky súhlasíte s podmienkami tejto Zmluvy.  
+Ak nesúhlasíte s podmienkami tejto Zmluvy, nepoužívajte webovú stránku!
 
-## Rights and Obligations of the Parties
+## Práva a povinnosti strán
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Práva používateľa:
+- Vyhľadávať informácie na webovej stránke  
+- Prijímať informácie z webovej stránky  
+- Používať informácie z webovej stránky na osobné, nekomerčné účely  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Práva správy:
+- Podľa vlastného uváženia vytvárať, meniť alebo rušiť pravidlá  
+- Obmedziť prístup k akýmkoľvek informáciám na webovej stránke  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Povinnosti používateľa:
+- Nezasahovať do funkčnosti webovej stránky  
+- Nepoužívať skripty (programy) na automatizované zbieranie dát a/alebo interakciu s webovou stránkou a jej službami  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Povinnosti správy:
+- Udržiavať funkčnosť webovej stránky, okrem prípadov, keď to nie je možné z dôvodov mimo kontrolu správy  
 
-## Liability of the Parties
+## Zodpovednosť strán
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- Správa nezodpovedá za služby poskytované tretími stranami  
+- V prípade vyššej moci (vojna, mimoriadne situácie, prírodné katastrofy a pod.) správa nezaručuje zachovanie informácií vložených používateľmi ani nepretržitú prevádzku informačného zdroja  
 
-## Agreement Validity
+## Platnosť zmluvy
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Táto Zmluva nadobúda platnosť okamžite pri akomkoľvek použití tejto webovej stránky.  
+Zmluva prestáva byť platná vydaním novej verzie.  
+Správa si vyhradzuje právo jednostranne meniť túto Zmluvu podľa vlastného uváženia.  
+Správa neupozorňuje používateľov na zmeny Zmluvy.

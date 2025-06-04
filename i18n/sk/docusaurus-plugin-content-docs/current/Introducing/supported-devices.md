@@ -1,25 +1,25 @@
 ---
 id: SupportedDevices
-title: Supported hubs, motors, and sensors
+title: Podporované huby, motory a senzory
 ---
 
 import { SupportedHubsTable, SupportedMotorsTable, SupportedSensorsTable } from '@site/src/components/SupportedDevices';
 
-# ⚙️ Supported Devices
+# ⚙️ Podporované zariadenia
 
-Here is a quick overview of the hubs, motors, and sensors supported by **Controlz**.
+Tu je rýchly prehľad hubov, motorov a senzorov podporovaných aplikáciou **Controlz**.
 
 <details>
-<summary>Hubs</summary>
+<summary>Huby</summary>
 <SupportedHubsTable />
 </details>
 
 <details>
-<summary>Motors</summary>
+<summary>Motory</summary>
 <SupportedMotorsTable />
 </details>
 
 <details>
-<summary>Sensors</summary>
+<summary>Senzory</summary>
 <SupportedSensorsTable />
 </details>
