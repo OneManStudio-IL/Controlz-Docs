@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Villkor
 ---
 
-# User Agreement
+# Användaravtal
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Detta användaravtal (hädanefter kallat Avtalet) reglerar förhållandet mellan ägaren (hädanefter kallad Administrationen) och användaren av webbplatsen.
 
-The website is not a mass media outlet.
+Webbplatsen är inte en massmediekanal.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Genom att använda webbplatsen godkänner du villkoren i detta Avtal.  
+Om du inte godkänner villkoren i detta Avtal, använd inte webbplatsen!
 
-## Rights and Obligations of the Parties
+## Parternas rättigheter och skyldigheter
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Användarens rättigheter:
+- Söka information på webbplatsen  
+- Ta emot information från webbplatsen  
+- Använda webbplatsens information för personligt, icke-kommersiellt bruk  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Administrationens rättigheter:
+- Efter eget gottfinnande skapa, ändra eller återkalla regler  
+- Begränsa åtkomsten till vilken information som helst på webbplatsen  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Användarens skyldigheter:
+- Inte störa webbplatsens funktionalitet  
+- Inte använda skript (program) för automatiserad datainsamling och/eller interaktion med webbplatsen och dess tjänster  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Administrationens skyldigheter:
+- Upprätthålla webbplatsens funktionalitet, utom i fall där det är omöjligt på grund av omständigheter utanför Administrationens kontroll  
 
-## Liability of the Parties
+## Parternas ansvar
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- Administrationen ansvarar inte för tjänster som tillhandahålls av tredje part  
+- Vid force majeure (krig, nödsituationer, naturkatastrofer, etc.) garanterar Administrationen inte bevarandet av användarinlagd information eller oavbruten drift av informationsresursen  
 
-## Agreement Validity
+## Avtalets giltighet
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Detta avtal träder i kraft vid varje användning av denna webbplats.  
+Avtalet upphör att gälla vid lansering av ny version.  
+Administrationen förbehåller sig rätten att ensidigt ändra detta avtal efter eget gottfinnande.  
+Administrationen underrättar inte användarna om ändringar i avtalet.  

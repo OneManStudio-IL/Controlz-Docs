@@ -1,25 +1,25 @@
 ---
 id: SupportedDevices
-title: Supported hubs, motors, and sensors
+title: Stödda hubbar, motorer och sensorer
 ---
 
 import { SupportedHubsTable, SupportedMotorsTable, SupportedSensorsTable } from '@site/src/components/SupportedDevices';
 
-# ⚙️ Supported Devices
+# ⚙️ Stödda enheter
 
-Here is a quick overview of the hubs, motors, and sensors supported by **Controlz**.
+Här är en snabb översikt över de hubbar, motorer och sensorer som stöds av **Controlz**.
 
 <details>
-<summary>Hubs</summary>
+<summary>Hubbar</summary>
 <SupportedHubsTable />
 </details>
 
 <details>
-<summary>Motors</summary>
+<summary>Motorer</summary>
 <SupportedMotorsTable />
 </details>
 
 <details>
-<summary>Sensors</summary>
+<summary>Sensorer</summary>
 <SupportedSensorsTable />
 </details>

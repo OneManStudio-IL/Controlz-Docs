@@ -1,46 +1,46 @@
 ---
 id: AboutApp
-title: About Controlz
+title: Om Controlz
 ---
 
-# Controlz – Elevate Your LEGO® Creations
+# Controlz – Lyft dina LEGO®-skapelser
 
-**Controlz** is a powerful mobile application designed to enhance your building and control experience.  
-It allows enthusiasts to remotely control their models, mechanisms, and robots using smartphones, tablets, or even gamepads.  
-With a wide range of supported hubs and motors, **Controlz** provides a seamless and customizable interface for users to interact with their creations.
-
----
-
-## 🎮 Intuitive Control Interfaces
-
-- **Customizable Profiles**: Create tailored control profiles for your MOC (My Own Creation) models directly on your smartphone.
-- **Gamepad Integration**: Enhance your control experience by connecting physical gamepads, providing a more immersive interaction with your models.
+**Controlz** är en kraftfull mobilapplikation designad för att förbättra din bygg- och kontrollupplevelse.  
+Den tillåter entusiaster att fjärrstyra sina modeller, mekanismer och robotar med smartphones, surfplattor eller till och med gamepads.  
+Med ett brett utbud av stöd för hubbar och motorer erbjuder **Controlz** ett sömlöst och anpassningsbart gränssnitt för användare att interagera med sina skapelser.
 
 ---
 
-## 🧱 Visual Programming with Scratch-Based Interface
+## 🎮 Intuitiva Kontrollgränssnitt
 
-Controlz incorporates a Scratch-based visual programming language, enabling users to:
-
-- Design both simple and complex programs for LEGO® models, mechanisms, and robots.
-- Utilize an intuitive drag-and-drop interface, making it accessible for users of all ages and skill levels.
-- Create sophisticated behaviors, such as automation sequences, movement patterns, and sensor-based responses, without traditional coding.
+- **Anpassningsbara Profiler**: Skapa skräddarsydda kontrollprofiler för dina MOC (My Own Creation)-modeller direkt på din smartphone.
+- **Gamepad-Integration**: Förbättra din kontrollupplevelse genom att koppla fysiska gamepads, vilket ger en mer engagerande interaktion med dina modeller.
 
 ---
 
-## 🌟 Key Features
+## 🧱 Visuell Programmering med Scratch-baserat Gränssnitt
 
-- **Multi-Hub Support**: Connect and control multiple hubs simultaneously, expanding the possibilities of your creations.
-- **User Profiles**: Sign in to create personalized profiles, provide feedback, and connect with the community.
-- **Real-Time Feedback**: Monitor motor outputs and sensor data in real-time, allowing for precise adjustments and optimizations.
-- **Offline Functionality**: Design and test your programs without the need for an active internet connection.
+Controlz använder ett visuellt programmeringsspråk baserat på Scratch, vilket gör det möjligt för användare att:
 
----
-
-## 📱 Availability
-
-Controlz is free to download and is available on both Android and Apple devices
+- Designa både enkla och komplexa program för LEGO®-modeller, mekanismer och robotar.
+- Använda ett intuitivt dra-och-släpp-gränssnitt, vilket gör det tillgängligt för användare i alla åldrar och med olika kunskapsnivåer.
+- Skapa avancerade beteenden, såsom automationssekvenser, rörelsemönster och sensorbaserade svar, utan traditionell kodning.
 
 ---
 
-Empower your LEGO® creations with **Controlz**, bringing them to life through advanced control features, intuitive navigation, and flexible configuration options.
+## 🌟 Viktiga Funktioner
+
+- **Multi-Hub Stöd**: Koppla upp och kontrollera flera hubbar samtidigt, vilket utökar möjligheterna för dina skapelser.
+- **Användarprofiler**: Logga in för att skapa personliga profiler, ge feedback och ansluta till communityn.
+- **Feedback i Realtid**: Övervaka motorutgångar och sensordata i realtid, vilket möjliggör precisa justeringar och optimeringar.
+- **Offlinefunktionalitet**: Designa och testa dina program utan att behöva en aktiv internetanslutning.
+
+---
+
+## 📱 Tillgänglighet
+
+Controlz är gratis att ladda ner och finns tillgängligt för både Android- och Apple-enheter.
+
+---
+
+Ge dina LEGO®-skapelser kraft med **Controlz**, och levandegör dem genom avancerade kontrollfunktioner, intuitiv navigering och flexibla konfigurationsmöjligheter.

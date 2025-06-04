@@ -1,62 +1,62 @@
 ---
 id: PrivacyPolicy
-title: Privacy Policy
+title: Integritetspolicy
 ---
 
-# Privacy Policy
+# Integritetspolicy
 
-Maksim Nemna created the Controlz application as a commercial application. 
-This SERVICE is provided by Maksim Nemna and is intended for use as is.
+Maksim Nemna skapade Controlz-applikationen som en kommersiell applikation.  
+Denna TJÄNST tillhandahålls av Maksim Nemna och är avsedd att användas som den är.
 
-This page is used to inform visitors about my policies regarding the collection, use, and disclosure of Personal Information if someone decides to use my Service.
+Denna sida används för att informera besökare om mina policyer gällande insamling, användning och utlämning av personlig information om någon väljer att använda min tjänst.
 
-If you choose to use my Service, you agree to the collection and use of information in accordance with this policy. The Personal Information that I collect is used to provide and improve the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Om du väljer att använda min tjänst, godkänner du insamling och användning av information i enlighet med denna policy. Den personliga informationen jag samlar in används för att tillhandahålla och förbättra tjänsten. Jag kommer inte att använda eller dela din information med någon annan än som beskrivs i denna integritetspolicy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are available on Controlz, unless otherwise defined in this Privacy Policy.
+Villkoren som används i denna integritetspolicy har samma betydelse som i våra villkor, som finns tillgängliga på Controlz, om inget annat definieras i denna policy.
 
-## Information Collection and Use
+## Insamling och användning av information
 
-For a better experience while using our Service, I may require you to provide certain personally identifiable information. The information I request will be stored on your device and will not be collected by me in any way.
+För en bättre upplevelse när du använder vår tjänst kan jag kräva att du lämnar viss personligt identifierbar information. Den information jag begär lagras på din enhet och samlas inte in av mig på något sätt.
 
-## Log Data
+## Loggdata
 
-I want to inform you that whenever you use my Service, in case of an application error, I collect data and information (through third-party products) on your phone called "Log Data." This Log Data may include information such as your device’s Internet Protocol ("IP") address, device name, operating system version, application configuration when using my Service, the time and date of your use of the Service, and other statistics.
+Jag vill informera dig om att varje gång du använder min tjänst, vid eventuella applikationsfel, samlar jag in data och information (via tredjepartsprodukter) på din telefon som kallas "Loggdata". Denna loggdata kan inkludera information som din enhets internetprotokolladress ("IP"), enhetsnamn, operativsystemversion, applikationskonfiguration när du använder min tjänst, tid och datum för din användning av tjänsten samt annan statistik.
 
 ## Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in your device’s internal memory.
+Cookies är filer med en liten mängd data som ofta används som anonyma unika identifierare. De skickas till din webbläsare från de webbplatser du besöker och lagras i din enhets interna minne.
 
-This Service does not explicitly use these "cookies." However, the app may use third-party code and libraries that use cookies to collect information and improve their services. You have the option to accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some parts of this Service.
+Denna tjänst använder inte uttryckligen dessa "cookies". Men appen kan använda tredjepartskod och bibliotek som använder cookies för att samla in information och förbättra sina tjänster. Du har möjlighet att acceptera eller avvisa dessa cookies och veta när en cookie skickas till din enhet. Om du väljer att avvisa våra cookies kan du eventuellt inte använda vissa delar av tjänsten.
 
-## Service Providers
+## Tjänsteleverantörer
 
-I may employ third-party companies and individuals for the following reasons:
+Jag kan anlita tredjepartsföretag och individer för följande skäl:
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+- För att underlätta vår tjänst;  
+- För att tillhandahålla tjänsten å våra vägnar;  
+- För att utföra tjänster relaterade till tjänsten; eller  
+- För att hjälpa oss analysera hur vår tjänst används.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Jag vill informera användare av denna tjänst att dessa tredjeparter har tillgång till din personliga information. Anledningen är att utföra uppgifterna som har tilldelats dem å våra vägnar. De är dock skyldiga att inte avslöja eller använda informationen för något annat syfte.
 
-## Security
+## Säkerhet
 
-I value your trust in providing us with your Personal Information, so we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Jag värdesätter ditt förtroende att ge oss din personliga information, så vi strävar efter att använda kommersiellt acceptabla metoder för att skydda den. Men kom ihåg att ingen överföringsmetod via internet eller elektronisk lagring är 100% säker och pålitlig, och jag kan inte garantera dess absoluta säkerhet.
 
-## Links to Other Sites
+## Länkar till andra webbplatser
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Denna tjänst kan innehålla länkar till andra webbplatser. Om du klickar på en tredjepartslänk kommer du att dirigeras till den webbplatsen. Observera att dessa externa webbplatser inte drivs av mig. Därför rekommenderar jag starkt att du granskar integritetspolicyn för dessa webbplatser. Jag har ingen kontroll över och tar inget ansvar för innehållet, integritetspolicyn eller praxis på några tredjepartswebbplatser eller tjänster.
 
-## Children's Privacy
+## Barns integritet
 
-These Services are not intended for anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. If I discover that a child under 13 has provided me with personal information, I immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I can take the necessary actions.
+Dessa tjänster är inte avsedda för någon under 13 år. Jag samlar inte medvetet in personligt identifierbar information från barn under 13 år. Om jag upptäcker att ett barn under 13 år har lämnat personlig information till mig, raderar jag den omedelbart från våra servrar. Om du är förälder eller vårdnadshavare och du är medveten om att ditt barn har lämnat oss personlig information, vänligen kontakta mig så att jag kan vidta nödvändiga åtgärder.
 
-## Changes to This Privacy Policy
+## Ändringar i denna integritetspolicy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Jag kan uppdatera vår integritetspolicy från tid till annan. Därför rekommenderas du att regelbundet granska denna sida för eventuella ändringar. Jag kommer att meddela dig om ändringar genom att publicera den nya integritetspolicyn på denna sida.
 
-## Contact Us
+## Kontakta oss
 
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at [developer@controlz.pro](mailto:developer@controlz.pro).
+Om du har några frågor eller förslag angående min integritetspolicy, tveka inte att kontakta mig på [developer@controlz.pro](mailto:developer@controlz.pro).
 
-This policy is effective as of September 11, 2021.
+Denna policy gäller från och med 11 september 2021.
