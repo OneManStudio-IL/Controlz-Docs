@@ -1,46 +1,46 @@
 ---
 id: AboutApp
-title: About Controlz
+title: Om Controlz
 ---
 
-# Controlz – Elevate Your LEGO® Creations
+# Controlz – Løft dine LEGO®-kreasjoner
 
-**Controlz** is a powerful mobile application designed to enhance your building and control experience.  
-It allows enthusiasts to remotely control their models, mechanisms, and robots using smartphones, tablets, or even gamepads.  
-With a wide range of supported hubs and motors, **Controlz** provides a seamless and customizable interface for users to interact with their creations.
-
----
-
-## 🎮 Intuitive Control Interfaces
-
-- **Customizable Profiles**: Create tailored control profiles for your MOC (My Own Creation) models directly on your smartphone.
-- **Gamepad Integration**: Enhance your control experience by connecting physical gamepads, providing a more immersive interaction with your models.
+**Controlz** er en kraftig mobilapplikasjon designet for å forbedre din bygge- og kontrollopplevelse.  
+Den lar entusiaster fjernstyre sine modeller, mekanismer og roboter ved hjelp av smarttelefoner, nettbrett eller til og med gamepads.  
+Med et bredt utvalg støttede hubs og motorer gir **Controlz** en sømløs og tilpassbar brukerflate for å interagere med dine kreasjoner.
 
 ---
 
-## 🧱 Visual Programming with Scratch-Based Interface
+## 🎮 Intuitive kontrollgrensesnitt
 
-Controlz incorporates a Scratch-based visual programming language, enabling users to:
-
-- Design both simple and complex programs for LEGO® models, mechanisms, and robots.
-- Utilize an intuitive drag-and-drop interface, making it accessible for users of all ages and skill levels.
-- Create sophisticated behaviors, such as automation sequences, movement patterns, and sensor-based responses, without traditional coding.
+- **Tilpassbare profiler**: Lag skreddersydde kontrollprofiler for dine MOC (My Own Creation) modeller direkte på smarttelefonen.
+- **Gamepad-integrasjon**: Forbedre kontrollopplevelsen ved å koble til fysiske gamepads, som gir en mer engasjerende interaksjon med modellene dine.
 
 ---
 
-## 🌟 Key Features
+## 🧱 Visuell programmering med Scratch-basert grensesnitt
 
-- **Multi-Hub Support**: Connect and control multiple hubs simultaneously, expanding the possibilities of your creations.
-- **User Profiles**: Sign in to create personalized profiles, provide feedback, and connect with the community.
-- **Real-Time Feedback**: Monitor motor outputs and sensor data in real-time, allowing for precise adjustments and optimizations.
-- **Offline Functionality**: Design and test your programs without the need for an active internet connection.
+Controlz inkluderer et Scratch-basert visuelt programmeringsspråk, som gjør det mulig å:
 
----
-
-## 📱 Availability
-
-Controlz is free to download and is available on both Android and Apple devices
+- Designe både enkle og komplekse programmer for LEGO®-modeller, mekanismer og roboter.
+- Bruke et intuitivt dra-og-slipp-grensesnitt som gjør det tilgjengelig for brukere i alle aldre og ferdighetsnivåer.
+- Lage avanserte oppførsel, som automatiseringssekvenser, bevegelsesmønstre og sensorbaserte responser, uten tradisjonell koding.
 
 ---
 
-Empower your LEGO® creations with **Controlz**, bringing them to life through advanced control features, intuitive navigation, and flexible configuration options.
+## 🌟 Nøkkelfunksjoner
+
+- **Multi-hub støtte**: Koble til og kontroller flere hubs samtidig, og utvid mulighetene for dine kreasjoner.
+- **Brukerprofiler**: Logg inn for å lage personlige profiler, gi tilbakemeldinger og knytte deg til fellesskapet.
+- **Sanntids tilbakemelding**: Overvåk motorutganger og sensordata i sanntid, noe som muliggjør presise justeringer og optimaliseringer.
+- **Offline-funksjonalitet**: Design og test programmene dine uten behov for aktiv internettforbindelse.
+
+---
+
+## 📱 Tilgjengelighet
+
+Controlz er gratis å laste ned og tilgjengelig på både Android- og Apple-enheter.
+
+---
+
+Gi dine LEGO®-kreasjoner kraft med **Controlz**, og bring dem til live gjennom avanserte kontrollfunksjoner, intuitiv navigasjon og fleksible konfigurasjonsmuligheter.

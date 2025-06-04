@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Vilkår og betingelser
 ---
 
-# User Agreement
+# Brukeravtale
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Denne brukeravtalen (heretter kalt Avtalen) regulerer forholdet mellom eieren (heretter kalt Administrasjonen) og brukeren av nettstedet.
 
-The website is not a mass media outlet.
+Nettstedet er ikke et massemedium.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Ved å bruke nettstedet godtar du vilkårene i denne Avtalen.  
+Hvis du ikke godtar vilkårene i denne Avtalen, må du ikke bruke nettstedet!
 
-## Rights and Obligations of the Parties
+## Rettigheter og forpliktelser for partene
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Brukerens rettigheter:
+- Søke etter informasjon på nettstedet  
+- Mottar informasjon fra nettstedet  
+- Bruke nettstedets informasjon til personlige, ikke-kommersielle formål  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Administrasjonens rettigheter:
+- Etter eget skjønn opprette, endre eller tilbakekalle regler  
+- Begrense tilgang til enhver informasjon på nettstedet  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Brukerens forpliktelser:
+- Ikke forstyrre nettstedets funksjonalitet  
+- Ikke bruke skript (programmer) for automatisert datainnsamling og/eller interaksjon med nettstedet og dets tjenester  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Administrasjonens forpliktelser:
+- Opprettholde nettstedets funksjonalitet, unntatt i tilfeller hvor dette ikke er mulig på grunn av forhold utenfor Administrasjonens kontroll  
 
-## Liability of the Parties
+## Partenes ansvar
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- Administrasjonen er ikke ansvarlig for tjenester levert av tredjepart  
+- Ved force majeure (krig, nødssituasjoner, naturkatastrofer osv.) garanterer ikke Administrasjonen at brukerpublisert informasjon bevares eller at informasjonstjenesten fungerer uten avbrudd  
 
-## Agreement Validity
+## Avtalens gyldighet
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Denne Avtalen trer i kraft ved enhver bruk av dette nettstedet.  
+Avtalen opphører å være gyldig ved utgivelse av en ny versjon.  
+Administrasjonen forbeholder seg retten til ensidig å endre denne Avtalen etter eget skjønn.  
+Administrasjonen varsler ikke brukere om endringer i Avtalen.

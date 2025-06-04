@@ -1,4 +1,4 @@
 ---
 id: QuickStart
-title: Quick start tutorial
+title: Kom i gang – hurtigveiledning
 ---
