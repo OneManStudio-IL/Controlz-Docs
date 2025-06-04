@@ -9,84 +9,84 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>cz</language>
         <item>
-            <title><![CDATA[Release Controlz 2025.1.5]]></title>
+            <title><![CDATA[Vydání Controlz 2025.1.5]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5</guid>
             <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Description]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5#description" class="hash-link" aria-label="Přímý odkaz na Description" title="Přímý odkaz na Description">​</a></h3>
-<p>This update enhances the block editing experience, improves performance, and ensures proper functionality on newer Android versions.</p>
+            <description><![CDATA[Popis]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="popis">Popis<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5#popis" class="hash-link" aria-label="Přímý odkaz na Popis" title="Přímý odkaz na Popis">​</a></h3>
+<p>Tato aktualizace zlepšuje práci s bloky, zvyšuje výkon a zajišťuje správnou funkčnost na novějších verzích Androidu.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5#changes" class="hash-link" aria-label="Přímý odkaz na Changes" title="Přímý odkaz na Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="změny">Změny<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5#zm%C4%9Bny" class="hash-link" aria-label="Přímý odkaz na Změny" title="Přímý odkaz na Změny">​</a></h3>
 <ul>
-<li><strong>Fixed a bug with hub scanning on Android 12+</strong> by requesting precise location permission.</li>
-<li><strong>Added option to hide/show the blocks palette</strong> by clicking on the currently selected block collection.</li>
-<li><strong>Added a resize handle</strong> to the blocks palette to allow <strong>manual resizing</strong>.</li>
-<li><strong>Fixed high CPU usage</strong> when a profile was loaded but the program wasn’t running.</li>
-<li><strong>Improved the "String list" block editor</strong> to avoid content being cut off. Now items are split into columns for better visibility with large lists.</li>
+<li><strong>Opravená chyba při skenování hubů na Androidu 12+</strong> – nyní se vyžaduje oprávnění k přesné poloze.</li>
+<li><strong>Přidána možnost skrýt/zobrazit paletu bloků</strong> kliknutím na právě vybranou kolekci bloků.</li>
+<li><strong>Přidána rukojeť pro změnu velikosti</strong> palety bloků pro <strong>ruční úpravu velikosti</strong>.</li>
+<li><strong>Opravené vysoké zatížení CPU</strong>, když byl profil načten, ale program nebyl spuštěn.</li>
+<li><strong>Vylepšený editor bloku „Seznam řetězců“</strong>, aby se zabránilo ořezávání obsahu. Položky jsou nyní rozděleny do sloupců pro lepší přehlednost u dlouhých seznamů.</li>
 </ul>]]></content:encoded>
             <category>Dev</category>
             <category>Test</category>
         </item>
         <item>
-            <title><![CDATA[Release Controlz 2025.1.4]]></title>
+            <title><![CDATA[Vydání Controlz 2025.1.4]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4</guid>
             <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Description]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4#description" class="hash-link" aria-label="Přímý odkaz na Description" title="Přímý odkaz na Description">​</a></h3>
-<p>This update improves support for tablets, adds useful testing pages, and fixes several compatibility and performance issues.</p>
+            <description><![CDATA[Popis]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="popis">Popis<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4#popis" class="hash-link" aria-label="Přímý odkaz na Popis" title="Přímý odkaz na Popis">​</a></h3>
+<p>Tato aktualizace zlepšuje podporu pro tablety, přidává užitečné testovací stránky a opravuje několik problémů s kompatibilitou a výkonem.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4#changes" class="hash-link" aria-label="Přímý odkaz na Changes" title="Přímý odkaz na Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="změny">Změny<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-4#zm%C4%9Bny" class="hash-link" aria-label="Přímý odkaz na Změny" title="Přímý odkaz na Změny">​</a></h3>
 <ul>
-<li><strong>Added tablet layout</strong> for better utilization of larger screens.</li>
-<li><strong>Fixed a bug where the "hub button pressed" block</strong> appeared for hubs that do not support this action. Also fixed inappropriate <strong>color sensor blocks</strong> for unsupported hubs (e.g., BuWizz).</li>
-<li><strong>Fixed a bug where the "motor run" block</strong> didn’t affect motors without encoders due to missing alternate run commands.</li>
-<li><strong>Added a page for testing gamepad buttons.</strong></li>
-<li><strong>Added a hub testing page</strong> with a dashboard showing information, connected port devices, and port shake status.</li>
-<li><strong>Fixed incorrect accelerometer data interpretation</strong> for BuWizz 2 and 3, which caused faulty orientation readings.</li>
-<li><strong>Fixed RAM memory leaks</strong> that led to app termination on some devices due to high system memory usage.</li>
-<li><strong>Fixed bugs in profile loading</strong> that previously caused crashes in certain scenarios.</li>
-<li><strong>Fixed an Android bug</strong> where releasing gamepad sticks did not reset axis values to zero.</li>
+<li><strong>Přidáno rozvržení pro tablety</strong> pro lepší využití větších obrazovek.</li>
+<li><strong>Opravená chyba, kdy se blok „tlačítko na hubu stisknuto“</strong> zobrazoval i pro huby, které tuto akci nepodporují. Také opraveny <strong>bloky pro barevný senzor</strong> u nepodporovaných hubů (např. BuWizz).</li>
+<li><strong>Opravená chyba, kdy blok „běh motoru“</strong> neovlivňoval motory bez enkodérů kvůli chybějícím alternativním příkazům.</li>
+<li><strong>Přidána stránka pro testování tlačítek gamepadu.</strong></li>
+<li><strong>Přidána stránka pro testování hubu</strong> s přehledem informací, připojených zařízení na portech a stavem otřesů portů.</li>
+<li><strong>Opravený nesprávný výklad dat z akcelerometru</strong> pro BuWizz 2 a 3, který způsoboval chybné orientační údaje.</li>
+<li><strong>Opravené úniky paměti RAM</strong>, které vedly k ukončení aplikace na některých zařízeních kvůli vysoké spotřebě paměti.</li>
+<li><strong>Opravené chyby při načítání profilů</strong>, které dříve způsobovaly pády aplikace v určitých scénářích.</li>
+<li><strong>Opravená chyba na Androidu</strong>, kdy uvolnění páček gamepadu nenastavilo hodnoty os zpět na nulu.</li>
 </ul>]]></content:encoded>
             <category>Dev</category>
             <category>Test</category>
         </item>
         <item>
-            <title><![CDATA[Release Controlz 2025.1.2 - 2025.1.3]]></title>
+            <title><![CDATA[Vydání Controlz 2025.1.2 – 2025.1.3]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3</guid>
             <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Description]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3#description" class="hash-link" aria-label="Přímý odkaz na Description" title="Přímý odkaz na Description">​</a></h3>
-<p>This update introduces new joystick customization options, UI improvements, and important stability fixes.</p>
+            <description><![CDATA[Popis]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="popis">Popis<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3#popis" class="hash-link" aria-label="Přímý odkaz na Popis" title="Přímý odkaz na Popis">​</a></h3>
+<p>Tato aktualizace přináší nové možnosti přizpůsobení joysticku, vylepšení uživatelského rozhraní a důležité opravy stability.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3#changes" class="hash-link" aria-label="Přímý odkaz na Changes" title="Přímý odkaz na Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="změny">Změny<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-2-3#zm%C4%9Bny" class="hash-link" aria-label="Přímý odkaz na Změny" title="Přímý odkaz na Změny">​</a></h3>
 <ul>
-<li><strong>Fixed a bug in the blocks palette collection selector</strong>: selecting a collection, scrolling to another, and returning had no effect.</li>
-<li><strong>Fixed a crash when loading heavy profiles</strong> with a large number of blocks.</li>
-<li><strong>Added “Axes type” property</strong> to joystick settings to support <strong>single-axis mode</strong> (X, Y, XY).</li>
-<li><strong>Added colorization</strong> for steering wheel controllers (“GMZ”, “No Mercy”).</li>
-<li><strong>Added “is pressed” blocks</strong> for steering wheels and pedals.</li>
+<li><strong>Opravená chyba ve výběru kolekce bloků v paletě</strong>: výběr kolekce, posun na jinou a návrat zpět neměl žádný efekt.</li>
+<li><strong>Opraven pád aplikace při načítání náročných profilů</strong> s velkým množstvím bloků.</li>
+<li><strong>Přidána vlastnost „Typ os“</strong> do nastavení joysticku pro podporu <strong>režimu s jednou osou</strong> (X, Y, XY).</li>
+<li><strong>Přidáno barevné odlišení</strong> pro volantové ovladače („GMZ“, „No Mercy“).</li>
+<li><strong>Přidány bloky „je stisknuto“</strong> pro volanty a pedály.</li>
 </ul>]]></content:encoded>
             <category>Dev</category>
             <category>Test</category>
         </item>
         <item>
-            <title><![CDATA[Release Controlz 2025.1.1]]></title>
+            <title><![CDATA[Vydání Controlz 2025.1.1]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1</guid>
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Description]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="description">Description<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1#description" class="hash-link" aria-label="Přímý odkaz na Description" title="Přímý odkaz na Description">​</a></h3>
-<p>This update includes several important bug fixes that enhance performance, reduce battery consumption, and improve block behavior in the programming environment.</p>
+            <description><![CDATA[Popis]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="popis">Popis<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1#popis" class="hash-link" aria-label="Přímý odkaz na Popis" title="Přímý odkaz na Popis">​</a></h3>
+<p>Tato aktualizace obsahuje několik důležitých oprav chyb, které zlepšují výkon, snižují spotřebu baterie a zlepšují chování bloků v programovacím prostředí.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1#changes" class="hash-link" aria-label="Přímý odkaz na Changes" title="Přímý odkaz na Changes">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="změny">Změny<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-1#zm%C4%9Bny" class="hash-link" aria-label="Přímý odkaz na Změny" title="Přímý odkaz na Změny">​</a></h3>
 <ul>
-<li><strong>Fixed a bug causing high CPU usage, battery drain, and low performance.</strong></li>
-<li><strong>Fixed a bug where gamepad blocks</strong> (e.g., “is button pressed”, “is D-PAD button pressed”) <strong>couldn’t be attached to other blocks.</strong></li>
-<li><strong>Fixed an issue in the step switch event block</strong> that incorrectly handled touch events and step counting.</li>
-<li><strong>Fixed a bug in the list block’s “item of”</strong> where no more than one block could be attached as an argument index.</li>
+<li><strong>Opravená chyba způsobující vysoké využití CPU, vybíjení baterie a nízký výkon.</strong></li>
+<li><strong>Opravená chyba, kdy bloky pro gamepad</strong> (např. „je tlačítko stisknuto“, „je stisknuto tlačítko D-PAD“) <strong>nebylo možné připojit k jiným blokům.</strong></li>
+<li><strong>Opraven problém v bloku události přepínače kroků</strong>, který nesprávně zpracovával dotykové události a počítání kroků.</li>
+<li><strong>Opravená chyba v bloku seznamu „položka ze“</strong>, kde nebylo možné připojit více než jeden blok jako index argumentu.</li>
 </ul>]]></content:encoded>
             <category>Dev</category>
             <category>Test</category>
@@ -96,11 +96,11 @@
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-begin</link>
             <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-begin</guid>
             <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[🚀 Controlz 2025.1.0 Closed Beta Has Begun!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202510-closed-beta-has-begun">🚀 Controlz 2025.1.0 Closed Beta Has Begun!<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-begin#-controlz-202510-closed-beta-has-begun" class="hash-link" aria-label="Přímý odkaz na 🚀 Controlz 2025.1.0 Closed Beta Has Begun!" title="Přímý odkaz na 🚀 Controlz 2025.1.0 Closed Beta Has Begun!">​</a></h2>
-<p>We're excited to announce that the closed beta test for Controlz 2025 is now live! Selected users can now explore new features, provide feedback, and help shape the future of Controlz.</p>
-<p>If you've received an invitation, check your email for access details.
-Thanks for being part of this important phase!</p>]]></content:encoded>
+            <description><![CDATA[🚀 Uzavřená beta verze Controlz 2025.1.0 právě začala!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-uzavřená-beta-verze-controlz-202510-právě-začala">🚀 Uzavřená beta verze Controlz 2025.1.0 právě začala!<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/closed-test-begin#-uzav%C5%99en%C3%A1-beta-verze-controlz-202510-pr%C3%A1v%C4%9B-za%C4%8Dala" class="hash-link" aria-label="Přímý odkaz na 🚀 Uzavřená beta verze Controlz 2025.1.0 právě začala!" title="Přímý odkaz na 🚀 Uzavřená beta verze Controlz 2025.1.0 právě začala!">​</a></h2>
+<p>S radostí oznamujeme, že uzavřené beta testování Controlz 2025 je nyní spuštěno! Vybraní uživatelé mohou nyní prozkoumat nové funkce, poskytnout zpětnou vazbu a pomoci formovat budoucnost aplikace Controlz.</p>
+<p>Pokud jste obdrželi pozvánku, zkontrolujte si svůj e-mail pro přístupové údaje.<br>
+<!-- -->Děkujeme, že jste součástí této důležité fáze!</p>]]></content:encoded>
             <category>Dev</category>
             <category>Test</category>
         </item>
