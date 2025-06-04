@@ -1,43 +1,43 @@
 ---
 id: Terms
-title: Terms and conditions
+title: Termos e Condições
 ---
 
-# User Agreement
+# Acordo do Usuário
 
-This User Agreement (hereinafter referred to as the Agreement) governs the relationship between the owner (hereinafter referred to as the Administration) and the user of the website.
+Este Acordo do Usuário (doravante denominado “Acordo”) rege a relação entre o proprietário (doravante denominado Administração) e o usuário do site.
 
-The website is not a mass media outlet.
+O site não é um meio de comunicação de massa.
 
-By using the website, you agree to the terms of this Agreement.  
-If you do not agree with the terms of this Agreement, do not use the website!
+Ao utilizar o site, você concorda com os termos deste Acordo.  
+Se você não concorda com os termos deste Acordo, não utilize o site!
 
-## Rights and Obligations of the Parties
+## Direitos e Obrigações das Partes
 
-### User Rights:
-- Search for information on the website  
-- Receive information from the website  
-- Use the website's information for personal, non-commercial purposes  
+### Direitos do Usuário:
+- Pesquisar informações no site  
+- Receber informações do site  
+- Usar as informações do site para fins pessoais e não comerciais  
 
-### Administration Rights:
-- At its discretion, create, modify, or revoke rules  
-- Restrict access to any information on the website  
+### Direitos da Administração:
+- A seu critério, criar, modificar ou revogar regras  
+- Restringir o acesso a qualquer informação no site  
 
-### User Obligations:
-- Not disrupt the website's functionality  
-- Not use scripts (programs) for automated data collection and/or interaction with the Website and its Services  
+### Obrigações do Usuário:
+- Não prejudicar a funcionalidade do site  
+- Não utilizar scripts (programas) para coleta automática de dados e/ou interação com o site e seus serviços  
 
-### Administration Obligations:
-- Maintain the website's functionality, except in cases where it is impossible due to reasons beyond the Administration's control  
+### Obrigações da Administração:
+- Manter a funcionalidade do site, exceto em casos onde seja impossível por motivos fora do controle da Administração  
 
-## Liability of the Parties
+## Responsabilidade das Partes
 
-- The Administration is not responsible for services provided by third parties  
-- In the event of force majeure (war, emergency situations, natural disasters, etc.), the Administration does not guarantee the preservation of user-posted information or the uninterrupted operation of the information resource  
+- A Administração não se responsabiliza por serviços prestados por terceiros  
+- Em caso de força maior (guerra, situações de emergência, desastres naturais, etc.), a Administração não garante a preservação das informações postadas pelos usuários nem o funcionamento ininterrupto do recurso informativo  
 
-## Agreement Validity
+## Vigência do Acordo
 
-This Agreement comes into effect upon any use of this website.  
-The Agreement ceases to be valid upon the release of a new version.  
-The Administration reserves the right to unilaterally modify this Agreement at its discretion.  
-The Administration does not notify users of changes to the Agreement.  
+Este Acordo entra em vigor a partir de qualquer uso deste site.  
+O Acordo deixa de ser válido quando for lançada uma nova versão.  
+A Administração reserva-se o direito de modificar unilateralmente este Acordo a seu critério.  
+A Administração não notifica os usuários sobre alterações no Acordo.

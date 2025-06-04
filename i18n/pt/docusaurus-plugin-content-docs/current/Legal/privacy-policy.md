@@ -1,62 +1,62 @@
 ---
 id: PrivacyPolicy
-title: Privacy Policy
+title: Política de Privacidade
 ---
 
-# Privacy Policy
+# Política de Privacidade
 
-Maksim Nemna created the Controlz application as a commercial application. 
-This SERVICE is provided by Maksim Nemna and is intended for use as is.
+Maksim Nemna criou o aplicativo Controlz como um aplicativo comercial.  
+Este SERVIÇO é fornecido por Maksim Nemna e é destinado a ser usado como está.
 
-This page is used to inform visitors about my policies regarding the collection, use, and disclosure of Personal Information if someone decides to use my Service.
+Esta página serve para informar os visitantes sobre minhas políticas referentes à coleta, uso e divulgação de Informações Pessoais caso alguém decida usar meu Serviço.
 
-If you choose to use my Service, you agree to the collection and use of information in accordance with this policy. The Personal Information that I collect is used to provide and improve the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Se você optar por usar meu Serviço, concorda com a coleta e o uso das informações conforme esta política. As Informações Pessoais que eu coletar são usadas para fornecer e melhorar o Serviço. Não usarei nem compartilharei suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are available on Controlz, unless otherwise defined in this Privacy Policy.
+Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, disponíveis no Controlz, salvo definição diferente nesta Política.
 
-## Information Collection and Use
+## Coleta e Uso de Informações
 
-For a better experience while using our Service, I may require you to provide certain personally identifiable information. The information I request will be stored on your device and will not be collected by me in any way.
+Para proporcionar uma melhor experiência ao usar nosso Serviço, posso solicitar que você forneça certas informações pessoalmente identificáveis. As informações que eu solicitar serão armazenadas no seu dispositivo e não serão coletadas por mim de nenhuma forma.
 
-## Log Data
+## Dados de Log
 
-I want to inform you that whenever you use my Service, in case of an application error, I collect data and information (through third-party products) on your phone called "Log Data." This Log Data may include information such as your device’s Internet Protocol ("IP") address, device name, operating system version, application configuration when using my Service, the time and date of your use of the Service, and other statistics.
+Quero informar que sempre que você usa meu Serviço, em caso de erro no aplicativo, eu coleto dados e informações (por meio de produtos de terceiros) no seu telefone chamados "Dados de Log". Esses Dados de Log podem incluir informações como endereço de Protocolo de Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operacional, configuração do aplicativo ao usar o Serviço, data e hora do uso do Serviço, e outras estatísticas.
 
 ## Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in your device’s internal memory.
+Cookies são arquivos com uma pequena quantidade de dados que geralmente são usados como identificadores únicos anônimos. Eles são enviados ao seu navegador pelos sites que você visita e armazenados na memória interna do seu dispositivo.
 
-This Service does not explicitly use these "cookies." However, the app may use third-party code and libraries that use cookies to collect information and improve their services. You have the option to accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some parts of this Service.
+Este Serviço não usa explicitamente esses "cookies". Entretanto, o aplicativo pode usar códigos e bibliotecas de terceiros que utilizam cookies para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
 
-## Service Providers
+## Provedores de Serviço
 
-I may employ third-party companies and individuals for the following reasons:
+Posso contratar empresas e indivíduos terceiros para os seguintes propósitos:
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+- Facilitar nosso Serviço;
+- Prestar o Serviço em nosso nome;
+- Executar serviços relacionados ao Serviço; ou
+- Auxiliar na análise do uso do nosso Serviço.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Quero informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. Isso ocorre para realizar as tarefas que lhes foram atribuídas em nosso nome. Contudo, eles estão obrigados a não divulgar ou usar as informações para qualquer outro propósito.
 
-## Security
+## Segurança
 
-I value your trust in providing us with your Personal Information, so we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Eu valorizo sua confiança em fornecer suas Informações Pessoais, por isso nos esforçamos para usar meios comercialmente aceitáveis para protegê-las. Mas lembre-se que nenhum método de transmissão pela Internet ou armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.
 
-## Links to Other Sites
+## Links para Outros Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado a esse site. Observe que esses sites externos não são operados por mim. Portanto, aconselho que você revise a Política de Privacidade desses sites. Não tenho controle nem assumo responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
 
-## Children's Privacy
+## Privacidade das Crianças
 
-These Services are not intended for anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. If I discover that a child under 13 has provided me with personal information, I immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I can take the necessary actions.
+Estes Serviços não são destinados a pessoas com menos de 13 anos. Não coleto intencionalmente informações pessoalmente identificáveis de crianças menores de 13 anos. Se eu descobrir que uma criança menor de 13 anos me forneceu informações pessoais, excluirei imediatamente essas informações dos nossos servidores. Se você for pai, mãe ou responsável e souber que seu filho nos forneceu informações pessoais, entre em contato comigo para que eu possa tomar as providências necessárias.
 
-## Changes to This Privacy Policy
+## Alterações nesta Política de Privacidade
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Posso atualizar esta Política de Privacidade periodicamente. Assim, você é aconselhado a revisitar esta página regularmente para verificar alterações. Avisarei sobre quaisquer mudanças publicando a nova Política de Privacidade nesta página.
 
-## Contact Us
+## Contato
 
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at [developer@controlz.pro](mailto:developer@controlz.pro).
+Se você tiver dúvidas ou sugestões sobre minha Política de Privacidade, não hesite em me contatar pelo e-mail [developer@controlz.pro](mailto:developer@controlz.pro).
 
-This policy is effective as of September 11, 2021.
+Esta política é válida a partir de 11 de setembro de 2021.
