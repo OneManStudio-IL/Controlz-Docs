@@ -74,7 +74,7 @@ export function GooglePlayBadge() {
 
   return (
     <a
-      href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043"
+      href="https://play.google.com/store/apps/details?id=pro.controlz.il"
       target="_blank"
       rel="noopener noreferrer"
       className="margin--sm"
