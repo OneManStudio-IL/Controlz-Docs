@@ -4,10 +4,25 @@
         <title>Controlz home Blog</title>
         <link>https://OneManStudio-IL.github.io/Controlz-Docs/de/blog</link>
         <description>Controlz home Blog</description>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Veröffentlichung von Controlz 2025.1.9]]></title>
+            <link>https://OneManStudio-IL.github.io/Controlz-Docs/de/blog/release-2025-1-9</link>
+            <guid>https://OneManStudio-IL.github.io/Controlz-Docs/de/blog/release-2025-1-9</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[🚀 Controlz 2025.1.9 ist jetzt im Mac App Store verfügbar!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202519-ist-jetzt-im-mac-app-store-verfügbar">🚀 Controlz 2025.1.9 ist jetzt im Mac App Store verfügbar!<a href="https://onemanstudio-il.github.io/Controlz-Docs/de/blog/release-2025-1-9#-controlz-202519-ist-jetzt-im-mac-app-store-verf%C3%BCgbar" class="hash-link" aria-label="Direktlink zu 🚀 Controlz 2025.1.9 ist jetzt im Mac App Store verfügbar!" title="Direktlink zu 🚀 Controlz 2025.1.9 ist jetzt im Mac App Store verfügbar!">​</a></h2>
+<p>Wir freuen uns, die Veröffentlichung von Controlz 2025.1.9 als native macOS-App bekannt zu geben!</p>
+<hr>
+<p>Genießen Sie jetzt die volle Desktop-Leistung und eine nahtlose Integration in macOS.<br>
+<!-- -->Laden Sie die App noch heute aus dem Mac App Store herunter und übernehmen Sie die Kontrolle über Ihre LEGO®-Kreationen wie nie zuvor!</p>
+<a href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043" target="_blank" rel="noopener noreferrer" class="margin--sm"><img src="https://onemanstudio-il.github.io/Controlz-Docs/de/img/store_badges/mac/mac_DE.svg" alt="Download on the Mac App Store" height="60"></a>]]></content:encoded>
+            <category>Dev</category>
+            <category>Test</category>
+        </item>
         <item>
             <title><![CDATA[Veröffentlichung Controlz 2025.1.5]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/de/blog/closed-test-release-2025-1-5</link>

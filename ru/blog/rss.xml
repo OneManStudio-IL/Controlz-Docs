@@ -4,10 +4,25 @@
         <title>Controlz home Blog</title>
         <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog</link>
         <description>Controlz home Blog</description>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Release Controlz 2025.1.9]]></title>
+            <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/release-2025-1-9</link>
+            <guid>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/release-2025-1-9</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[🚀 Controlz 2025.1.9 is now available on the Mac App Store!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202519-is-now-available-on-the-mac-app-store">🚀 Controlz 2025.1.9 is now available on the Mac App Store!<a href="https://onemanstudio-il.github.io/Controlz-Docs/ru/blog/release-2025-1-9#-controlz-202519-is-now-available-on-the-mac-app-store" class="hash-link" aria-label="Прямая ссылка на 🚀 Controlz 2025.1.9 is now available on the Mac App Store!" title="Прямая ссылка на 🚀 Controlz 2025.1.9 is now available on the Mac App Store!">​</a></h2>
+<p>We’re excited to announce the release of Controlz 2025.1.9 as a native macOS application!</p>
+<hr>
+<p>You can now enjoy full desktop performance and seamless integration with macOS.
+Download it today from the Mac App Store and take control of your LEGO® creations like never before!</p>
+<a href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043" target="_blank" rel="noopener noreferrer" class="margin--sm"><img src="https://onemanstudio-il.github.io/Controlz-Docs/ru/img/store_badges/mac/mac_RU.svg" alt="Download on the Mac App Store" height="60"></a>]]></content:encoded>
+            <category>Dev</category>
+            <category>Test</category>
+        </item>
         <item>
             <title><![CDATA[Релиз Controlz 2025.1.5]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/ru/blog/closed-test-release-2025-1-5</link>

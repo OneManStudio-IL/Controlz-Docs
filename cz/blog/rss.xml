@@ -4,10 +4,25 @@
         <title>Controlz home Blog</title>
         <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog</link>
         <description>Controlz home Blog</description>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>cz</language>
+        <item>
+            <title><![CDATA[Vydání Controlz 2025.1.9]]></title>
+            <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/release-2025-1-9</link>
+            <guid>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/release-2025-1-9</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[🚀 Controlz 2025.1.9 je nyní dostupný v Mac App Store!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202519-je-nyní-dostupný-v-mac-app-store">🚀 Controlz 2025.1.9 je nyní dostupný v Mac App Store!<a href="https://onemanstudio-il.github.io/Controlz-Docs/cz/blog/release-2025-1-9#-controlz-202519-je-nyn%C3%AD-dostupn%C3%BD-v-mac-app-store" class="hash-link" aria-label="Přímý odkaz na 🚀 Controlz 2025.1.9 je nyní dostupný v Mac App Store!" title="Přímý odkaz na 🚀 Controlz 2025.1.9 je nyní dostupný v Mac App Store!">​</a></h2>
+<p>S potěšením oznamujeme vydání Controlz 2025.1.9 jako nativní aplikace pro macOS!</p>
+<hr>
+<p>Nyní si můžete užívat plný výkon na ploše a bezproblémovou integraci s macOS.<br>
+<!-- -->Stáhněte si ji ještě dnes z Mac App Store a získejte kontrolu nad svými LEGO® výtvory jako nikdy předtím!</p>
+<a href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043" target="_blank" rel="noopener noreferrer" class="margin--sm"><img src="https://onemanstudio-il.github.io/Controlz-Docs/cz/img/store_badges/mac/mac_CZ.svg" alt="Download on the Mac App Store" height="60"></a>]]></content:encoded>
+            <category>Dev</category>
+            <category>Test</category>
+        </item>
         <item>
             <title><![CDATA[Vydání Controlz 2025.1.5]]></title>
             <link>https://OneManStudio-IL.github.io/Controlz-Docs/cz/blog/closed-test-release-2025-1-5</link>

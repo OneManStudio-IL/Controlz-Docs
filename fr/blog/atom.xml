@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://OneManStudio-IL.github.io/Controlz-Docs/fr/blog</id>
     <title>Controlz home Blog</title>
-    <updated>2025-05-17T00:00:00.000Z</updated>
+    <updated>2025-06-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://OneManStudio-IL.github.io/Controlz-Docs/fr/blog"/>
     <subtitle>Controlz home Blog</subtitle>
     <icon>https://OneManStudio-IL.github.io/Controlz-Docs/fr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release Controlz 2025.1.9]]></title>
+        <id>https://OneManStudio-IL.github.io/Controlz-Docs/fr/blog/release-2025-1-9</id>
+        <link href="https://OneManStudio-IL.github.io/Controlz-Docs/fr/blog/release-2025-1-9"/>
+        <updated>2025-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Controlz 2025.1.9 is now available on the Mac App Store!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-controlz-202519-is-now-available-on-the-mac-app-store">🚀 Controlz 2025.1.9 is now available on the Mac App Store!<a href="https://onemanstudio-il.github.io/Controlz-Docs/fr/blog/release-2025-1-9#-controlz-202519-is-now-available-on-the-mac-app-store" class="hash-link" aria-label="Lien direct vers 🚀 Controlz 2025.1.9 is now available on the Mac App Store!" title="Lien direct vers 🚀 Controlz 2025.1.9 is now available on the Mac App Store!">​</a></h2>
+<p>We’re excited to announce the release of Controlz 2025.1.9 as a native macOS application!</p>
+<hr>
+<p>You can now enjoy full desktop performance and seamless integration with macOS.
+Download it today from the Mac App Store and take control of your LEGO® creations like never before!</p>
+<a href="https://apps.apple.com/il/app/controlz-moc-controller/id1585138043" target="_blank" rel="noopener noreferrer" class="margin--sm"><img src="https://onemanstudio-il.github.io/Controlz-Docs/fr/img/store_badges/mac/mac_FR.svg" alt="Download on the Mac App Store" height="60"></a>]]></content>
+        <author>
+            <name>Maxim</name>
+            <uri>https://github.com/llOzzeell</uri>
+        </author>
+        <category label="Dev" term="Dev"/>
+        <category label="Test" term="Test"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Publication Controlz 2025.1.5]]></title>
         <id>https://OneManStudio-IL.github.io/Controlz-Docs/fr/blog/closed-test-release-2025-1-5</id>
